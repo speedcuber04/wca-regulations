@@ -58,60 +58,60 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
 - 1k) Uradne osebe lahko opravljajo več vlog (npr. organizacijska ekipa, WCA delegat, sodnik, zapisnikar, mešalec).
 
 
-## <article-2><competitors><competitors> Article 2: Competitors
+## <article-2><competitors><competitors> 2. člen: Tekmovalci
 
-- 2a) Any person may compete in a WCA competition if they:
-    - 2a1) Comply with WCA Regulations.
-    - 2a2) Meet the competition requirements, which must be clearly announced before the competition.
-    - 2a3) Are not suspended by the WCA Board.
-    - 2a4) Comply with all reasonable safety measures deemed necessary by the WCA Delegate, which must be clearly announced before the competition.
-- 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).
-    - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team.
-    - 2c2) Returning competitors must provide personal information consistent with their WCA profile. If a competitor wishes to change or update their personal information between competitions (e.g. a change of nationality, name, or gender), they must [contact the WCA Results Team](https://www.worldcubeassociation.org/contact/website).
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship by means of documents (e.g. a passport) at their first competition. If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-    - 2e1) The eligible countries are defined by the [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
-    - 2e2) Competitors with updates to their citizenship status may change their country of representation before or at their first competition of a calendar year. Exception: if the competitor loses citizenship of the country which they were previously representing, they must change the country of representation before or at their next competition (see [Regulation 2c2](regulations:regulation:2c2)).
-    - 2e3) Competitors who have no citizenship may compete as "Stateless".
-- 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
-- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-    - 2g3) Competitors in a Competitor Waiting Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate.
-- 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While inspecting or solving, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting) apart from the Stackmat timer or stopwatch.
-    - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
-        - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to [Regulation 2i](regulations:regulation:2i), medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if the competitor has a personal hearing aid or pacemaker).
-        - 2i1b) Earplugs and earmuffs (but not electronic headphones and earbuds).
-        - 2i1c) Hand warmers.
-        - 2i1d) Food and drink.
-    - 2i2) Competitors may use cameras at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the start of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
-        - 2i2a) Each camera monitor must be blank or out of sight of the competitor (see [Regulation A5b](regulations:regulation:A5b)).
-        - 2i2b) The competitor must not interact with (e.g. operate, hold, wear) any active camera. Exception: the competitor may wear a camera mounted on their head, as long as it is out of their sight and it is clear that they are not interacting with it (apart from wearing it).
-    - 2i3) The competitor may have a cell phone in their pocket, as long as it is clear that they are not otherwise interacting with it.
-    - 2i4) Competitors should turn off all cell phone notifications while competing to avoid disturbing the competition.
-- 2j) The WCA Delegate may disqualify a competitor from a specific event.
-    - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
-        - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts (i.e. has no results or only has DNS results), no results are recorded.
-    - 2j2) If a competitor is disqualified during the course of an event, results from attempts that are already finished when the competitor is disqualified remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from some events (a single event, multiple events, or all events) if the competitor:
-    - 2k1) Fails to check in or register in time for the competition.
-    - 2k2) Is suspected of cheating or defrauding the officials during the competition.
-        - 2k2a) The WCA Delegate may disqualify any suspected results.
-    - 2k3) Behaves in a way that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue.
-    - 2k4) Distracts or interferes with others during the competition.
-    - 2k5) Fails to abide by WCA Regulations during the competition.
-    - 2k6) Does not fulfill the event's requirements (e.g. not knowing how to solve the puzzle). A competitor must not compete with the expectation of a DNF result or an intentionally poor result.
-- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
-    - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
-- 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-    - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the start of any following rounds of the relevant event.
-    - 2n2) The WCA Delegate must resolve the dispute before the start of the next round of the event.
-    - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
-- 2u) Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.
-    - 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a 3x3x3 Fewest Moves attempt, a 3x3x3 Multi-Blind attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
-    - 2u2) Exception: For rounds with a cumulative time limit, a competitor who arrives late may compete with a reduced cumulative time limit, at the discretion of the WCA Delegate.
+- 2a) Na WCA tekmovanju lahko tekmuje vsak, pod pogojem da:
+    - 2a1) upošteva WCA Pravilnik.
+    - 2a2) izpolnjuje tekmovalne pogoje, kateri so jasno objavljeni pred tekmovanjem.
+    - 2a3) ni suspendiran s strani WCA Uprave.
+    - 2a4) upošteva vse razumne varnostne ukrepe, potrebne po mnenju WCA delegata in kateri so jasno objavljeni pred tekmovanjem.
+- 2b) Tekmovalci mlajši od 18 let morajo za registracijo in tekmovanje pridobiti soglasje staršev ali skrbnikov.
+- 2c) Tekmovalci se registrirajo s posredovanjem vseh podatkov, zahtevanih s strani organizacijske ekipe (vključno z: imenom, državo, datumom rojstva, spolom, kontaktnimi podatki, izbranimi disciplinami).
+    - 2c1) Tekmovalec ni upravičen do tekmovanja brez opravljene registracije, kot je določena s strani organizacijske ekipe.
+    - 2c2) Tekmovalci povratniki morajo posredovati osebne podatke v skladu z njihovim WCA profilom. Če tekmovalec želi spremeniti ali posodobiti svoje osebne podatke med tekmovanji (npr. sprememba državljanstva, imena ali spola), mora [kontaktirati WCA Ekipo za rezultate](https://www.worldcubeassociation.org/contact/website).
+- 2d) Ime tekmovalca, država, spol in rezultati tekmovanja so vodeni kot javni podatki. Vsi ostali osebni podatki so vodeni kot zaupni in se brez soglasja tekmovalca ne smejo razkriti zunanjim organizacijam ali osebam.
+- 2e) Tekmovalci morajo zastopati državo, katere imajo državljanstvo. WCA delegat mora na tekmovalčevem prvem tekmovanju preveriti državljanstvo z dokumenti (npr. potnim listom). Če je ugotovljeno, da tekmovalec ni upravičen do zastopanja države, pod katero je registriran, je lahko po odločitvi WCA Uprave retroaktivno diskvalificiran in/ali suspendiran.
+    - 2e1) Upravičene države so opredeljene z [WCA seznamom priznanih držav](https://www.worldcubeassociation.org/regulations/countries/).
+    - 2e2) Tekmovalci s posodobljenim statusom državljanstva, lahko spremenijo svojo državo zastopanja pred ali na svojem prvem tekmovanju v koledarskem letu. Izjema: če tekmovalec izgubi državljanstvo države, katero je pred tem zastopal, mora spremeniti državo zastopanja pred ali na naslednjem tekmovanju (glej [pravilo 2c2](regulations:regulation:2c2)).
+    - 2e3) Tekmovalci brez državljanstva lahko tekmujejo registrirani kot "brez države".
+- 2f) Tekmovalci morajo spoštovati pravila prizorišča in se primerno vesti.
+- 2g) Tekmovalci morajo biti tiho, kadar so znotraj označenega tekmovalnega prostora. Govorjenje je dovoljeno, vendar mora biti na razumni ravni in stran od tekmovalcev, kateri aktivno tekmujejo.
+    - 2g3) Tekmovalci v čakalnem prostoru ne smejo komunicirati med seboj o stanju premešanih ugank v tekočem krogu. Kazen: diskvalifikacija tekmovalca (tekmovalcev) iz tekmovanja, po presoji WCA delegata.
+- 2h) Tekmovalci morajo biti na prizorišču tekmovanja popolnoma oblečeni. Po presoji WCA delegata so lahko diskvalificirani iz tekmovanja zaradi neprimernih oblačil.
+- 2i) Med predogledom ali reševanjem tekmovalci ne smejo uporabljati elektronskih ali avdio naprav (npr. mobilnih telefonov, MP3 predvajalnikov, diktafonov, dodatne osvetlitve), razen merilnika časa Stackmat in štoparice.
+    - 2i1) Po presoji WCA delegata, lahko tekmovalci uporabljajo neelektronske dodatke, ki jim ne dajejo nepoštene prednosti. To vključuje:
+        - 2i1a) medicinske in fizične pripomočke, ki jih nosi tekmovalec (npr. očala, opornica za zapestje). Kot izjema pri [pravilu 2i](regulations:regulation:2i) so medicinski dodatki lahko elektronski, če tekmovalec nima ustreznih neelektronskih alternativ (npr. če ima tekmovalec osebni slušni aparat ali srčni spodbujevalnik).
+        - 2i1b) ušesne čepke in glušnike (vendar ne elektronskih slušalk ali ušesnih čepkov).
+        - 2i1c) grelnike rok.
+        - 2i1d) hrano in pijačo.
+    - 2i2) Tekmovalci lahko uporabljajo kamere na tekmovalni postaji, po presoji WCA delegata, vendar veljajo spodaj opisane omejitve vse od začetka poskusa in dokler tekmovalec poskusa ne konča. Kazen za kršitev omejitve: diskvalifikacija poskusa (DNF).
+        - 2i2a) Vsi zasloni kamer morajo biti zatemnjeni ali izven tekmovalčevega vidnega polja (glej [pravilo A5b](regulations:regulation:A5b)).
+        - 2i2b) Tekmovalec ne sme biti v stiku (komunicirati) z nobeno aktivno kamero (npr. upravljati, držati, nositi). Izjema: tekmovalec lahko nosi kamero nameščeno na glavi, dokler je izven njegovega vidnega polja in je jasno, da z njo ne komunicira (razen, da jo nosi).
+    - 2i3) Tekmovalec lahko ima v žepu mobilni telefon, dokler z njim drugače ne komunicira.
+    - 2i4) Medtem ko tekmovalci tekmujejo, naj bi imeli izklopljena vsa obvestila na mobilnih telefonih, da s tem ne motijo tekmovanja.
+- 2j) WCA delegat lahko diskvalificira tekmovalca iz določene discipline.
+    - 2j1) Če je tekmovalec iz kakršnegakoli razloga diskvalificiran iz discipline, ni upravičen do nadaljnjih poskusov v tej disciplini.
+        - 2j1a) Če je tekmovalec že začel z vsaj enim poskusom v krogu, preden je bil iz discipline diskvalificiran, se rezultati vseh preostalih poskusov v krogu zabeležijo kot DNF. Če tekmovalec še ni začel z nobenim poskusom (tj. nima rezultatov ali ima samo rezultate DNS), se rezultati ne zabeležijo.
+    - 2j2) Če je tekmovalec diskvalificiran med potekom discipline, potem rezultati že končanih poskusov pred diskvalifikacijo ostanejo veljavni. Izjema: goljufija ali prevara (glej [pravilo 2k2a](regulations:regulation:2k2a)).
+- 2k) Po presoji WCA delegata, je lahko tekmovalec diskvalificiran iz nekaterih disciplin (posamezne discipline, več disciplin ali vseh disciplin), če:
+    - 2k1) se ne prijavi ali registrira pravočasno za tekmovanje.
+    - 2k2) je osumljen goljufije ali prevare uradnih oseb tekmovanja.
+        - 2k2a) WCA delegat lahko diskvalificira katerekoli sumljive rezultate.
+    - 2k3) se obnaša na način, ki je nezakonit/nasilen/nespodoben/nevaren, ali namerno poškoduje objekte prizorišča ali osebno lastnino znotraj prizorišča.
+    - 2k4) moti ali vznemirja druge med tekmovanjem.
+    - 2k5) med tekmovanjem ne upošteva WCA Pravilnika.
+    - 2k6) ne izpolnjuje zahtev discipline (npr. ne zna rešiti uganke). Tekmovalec ne sme tekmovati s pričakovanjem rezultata DNF ali namerno slabega rezultata.
+- 2l) Tekmovalec je lahko diskvalificiran takoj ali po opozorilu, odvisno od narave in resnosti kršitve.
+    - 2l1) Diskvalificiran tekmovalec ni upravičen do povračila morebitnih stroškov zaradi sodelovanja na tekmovanju.
+- 2n) Tekmovalci lahko ustno izpodbijajo odločitev pri WCA delegatu.
+    - 2n1) Pritožbe so dovoljene samo med tekmovanjem, v 30 minutah po dogodku spornega incidenta, ter pred začetkom kateregakoli naslednjega kroga discipline.
+    - 2n2) WCA delegat mora rešiti sporni dogodek pred začetkom naslednjega kroga discipline.
+    - 2n3) Tekmovalec mora sprejeti vse končne odločitve WCA delegata. Kazen: diskvalifikacija iz tekmovanja.
+- 2s) Tekmovalci s posebnimi potrebami, katere jim morda preprečujejo upoštevanje enega ali več pravil WCA Pravilnika, lahko WCA delegata zaprosijo za posebne prilagoditve. Tekmovalci, ki zaprosijo za takšne prilagoditve, naj bi kontaktirali organizacijsko ekipo in WCA delegata vsaj dva tedna pred tekmovanjem.
+- 2t) Vsak tekmovalec mora biti pred tekmovanjem seznanjen z WCA Pravilnikom in razumeti pravila.
+- 2u) Tekmovalci morajo biti prisotni in pripravljeni tekmovati, takrat ko so poklicani za tekmovanje v določenem poskusu. Kazen: diskvalifikacija iz discipline.
+    - 2u1) Izjema: Za tekmovalca, ki ni pravočasno prisoten za individualno načrtovani poskus (npr. poskus 3x3x3 optimalno, poskus 3x3x3 slepo več kock), se po presoji WCA delegata lahko upošteva njegova zavrnitev poskusa (DNS).
+    - 2u2) Izjema: V tekmovalnem krogu s skupno časovno omejitvijo, lahko tekmovalec, ki prispe prepozno, tekmuje s skrajšano skupno časovno omejitvijo, po presoji WCA delegata.
 
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
