@@ -1,6 +1,6 @@
-# <wca-title>WCA Regulations
+# <wca-title>WCA Pravilnik
 
-<version>Version: June 1, 2022
+<version>Različica: 1. junij 2022
 
 
 ## Notes
