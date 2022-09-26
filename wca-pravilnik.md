@@ -114,39 +114,39 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
     - 2u2) Izjema: V tekmovalnem krogu s skupno časovno omejitvijo, lahko tekmovalec, ki prispe prepozno, tekmuje s skrajšano skupno časovno omejitvijo, po presoji WCA delegata.
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-3><puzzles><puzzles> 3. člen: Uganke
 
-- 3a) Competitors must provide their own puzzles for the competition.
-    - 3a1) Competitors must be ready to submit their puzzles when they are called (see [Regulation 2u](regulations:regulation:2u)).
-    - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-    - 3a3) Polyhedral puzzles must use a color scheme with one unique color per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-    - 3a4) Puzzles must not have electronic components (e.g. Bluetooth or Wi-Fi capabilities, motors, sensors, lights). See [Regulation 2i](regulations:regulation:2i).
-- 3d) Puzzles must have colored parts, which define the color scheme of the puzzle and must be one and only one of the following: colored stickers, colored tiles, colored plastic, or painted/printed colors. All colored parts of a puzzle must be made of a similar material.
-    - 3d1) For competitors with a medically documented visual disability, the following exceptions apply:
-        - 3d1a) Blind competitors may use textured puzzles with different textures on different faces. Each face should have a distinct color, to aid in scrambling and judging.
-        - 3d1b) Color blind competitors who cannot distinguish between the necessary number of colors may use colored parts with patterns, if it has been explicitly approved according to [Regulation 2s](regulations:regulation:2s). Patterns may come from stickers or be drawn.
-    - 3d2) The colors of the colored parts must be solid, with one uniform color per face. Each color must be clearly distinct from the other colors.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. orientation or identity of pieces), compared to an unmodified version of the same puzzle.
-    - 3h1) "Pillowed" puzzles are permitted.
-    - 3h2) Puzzles whose colored plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
-        - 3h2a) Puzzles with transparent parts that can reveal more information about the state of the puzzle. Exception: An overlay sticker or a logo (see [Regulation 3l](regulations:regulation:3l)).
-    - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-    - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
-- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
-    - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
-    - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
-    - 3j3) Corrugated/textured parts which permit the orientation of pieces to be distinguished by feel are not permitted for blindfolded events.
-- 3k) Puzzles should be approved by the WCA Delegate before use in the competition.
-    - 3k1) If a non-permitted puzzle is found during a round, the competitor must not continue to use the puzzle, and must submit a replacement.
-    - 3k2) Penalty for attempts done with puzzles which are not permitted: disqualification of the attempt (DNF). The following exceptions apply:
-        - 3k2a) If a non-permitted puzzle is found before a round is complete, affected results in the round may be replaced with extra attempts, at the discretion of the WCA Delegate.
-        - 3k2b) 3x3x3 Multi-Blind: if any puzzles are found to be non-permitted, such puzzles may be individually counted as unsolved (without disqualifying the entire attempt), at the discretion of the WCA Delegate.
-- 3l) A puzzle may have a logo on a colored part. If it does, it must have at most one colored part with a logo. Exception: For blindfolded events, a puzzle must not have a logo.
-    - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
-        - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
-        - 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
-    - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker.
-- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
+- 3a) Tekmovalci morajo za tekmovanje zagotoviti svoje lastne uganke.
+    - 3a1) Tekmovalci morajo biti pripravljeni oddati svoje uganke v mešanje, takrat ko so za to poklicani (glej [pravilo 2u](regulations:regulation:2u)).
+    - 3a2) Uganke morajo biti polno delujoče, tako da jih je možno normalno mešati.
+    - 3a3) Poliedrske uganke morajo v rešenem stanju imeti takšno barvno shemo, da je barva na vsaki ploskvi edinstvena v primerjavi z ostalimi. Vsaka različica uganke mora imeti poteze, stanja in rešitve, funkcionalno enake originalni uganki.
+    - 3a4) Uganke ne smejo imeti elektronskih delov (npr. možnosti Bluetooth ali Wi-Fi, motorjev, senzorjev, luči). Glej [pravilo 2i](regulations:regulation:2i).
+- 3d) Uganke morajo imeti barvne dele, ki določajo barvno shemo uganke in morajo biti natančno eno od naslednjega: barvne nalepke, barvne ploščice, barvna plastika ali pobarvane/tiskane barve. Vsi barvni deli uganke morajo biti izdelani iz podobnega materiala.
+    - 3d1) Za tekmovalce z medicinsko dokumentirano okvaro vida veljajo naslednje izjeme:
+        - 3d1a) slepi tekmovalci lahko uporabljajo uganke s teksturami, z različnimi teksturami na različnih ploskvah. Vsaka ploskev naj ima različno barvo, ki bo v pomoč pri mešanju in sojenju.
+        - 3d1b) tekmovalci z barvno slepoto, ki ne morejo razlikovati med potrebnim številom barv, lahko uporabljajo barvne dele z vzorci, če je bilo to izrecno odobreno v skladu s pravilom 2s. Vzorci so lahko iz nalepk ali narisani.
+    - 3d2) Barve na barvnih delih morajo biti enobarvne, z enotno barvo na celotni ploskvi. Vsaka barva se mora jasno razlikovati od ostalih barv.
+- 3h) Modifikacije ugank, ki spremenijo osnovni koncept uganke, niso dovoljene. Modificirane različice ugank so dovoljene le, če modifikacija tekmovalcu ne daje nobenih dodatnih informacij (npr. orientacija ali prepoznava koščkov) v primerjavi z nemodificirano različico iste uganke.
+    - 3h1) Zaobljene uganke (tj. "pillowed") so dovoljene.
+    - 3h2) Uganke, katerih barvna plastika je vidna v notranjosti uganke (npr. uganke z barvno plastiko, tj. "stickerless"), so dovoljene. To ne vključuje naslednjih ugank:
+        - 3h2a) uganke s prozornimi deli, ki lahko razkrijejo več informacij o stanju na uganki. Izjema: prekrivna nalepka ali logotip (glej [pravilo 3l](regulations:regulation:3l)).
+    - 3h3) Kakršnekoli modifikacije uganke s strani tekmovalca, ki povzročijo slabo reševanje, niso podlaga za dodatne poskuse.
+    - 3h4) Za Clock so dovoljeni prirejeni "vložki" (enake oblike in velikosti kot običajni papirnati vložki), po presoji WCA delegata. Vložki morajo imeti jasno oznako 12. ure, ki se ujema z običajnimi vložki.
+- 3j) Uganke morajo biti čiste in ne smejo imeti nobenih oznak, dvignjenih delov, poškodb ali drugih razlik, ki bistveno razlikujejo katerikoli njihov kos od podobnega kosa. Izjema: logotip (glej [pravilo 3l](regulations:regulation:3l)).
+    - 3j1) Uganke so lahko obrabljene do razumne mere, po presoji WCA delegata.
+    - 3j2) Definicija: dva kosa sta si podobna, če sta enake oblike in velikosti, ali če sta zrcalne oblike in enake velikosti.
+    - 3j3) Valoviti deli ali deli s teksturami, kateri omogočajo razlikovanje orientacije kosov na otip, niso dovoljeni za discipline slepega reševanja.
+- 3k) Ustreznost uganke naj bi pred uporabo na tekmovanju potrdil WCA delegat.
+    - 3k1) Če se neustreznost uganke ugotovi med potekom kroga discipline, je tekmovalec ne sme več uporabljati in mora predložiti njeno zamenjavo.
+    - 3k2) Kazen za izvedene poskuse z neustreznimi ugankami: diskvalifikacija poskusa (DNF). Veljajo naslednje izjeme:
+        - 3k2a) če se neustreznost uganke ugotovi preden se zaključi krog discipline, se lahko po presoji WCA delegata, prizadeti rezultati v krogu nadomestijo z dodatnimi poskusi.
+        - 3k2b) 3x3x3 slepo več kock: če se ugotovi, da katerakoli izmed ugank ni ustrezna, se lahko po presoji WCA delegata, posamezno uganko šteje kot nerešeno (brez diskvalifikacije celotnega poskusa).
+- 3l) Uganka lahko ima logotip na barvnem delu. Če ga ima, lahko ima največ en barvni del z logotipom. Izjema: Za discipline slepega reševanja uganka ne sme imeti logotipa.
+    - 3l1) Logotip mora biti nameščen na srednjem koščku. Izjeme za uganke, ki nimajo srednjih koščkov:
+        - 3l1a) na Pyraminxu in 2x2x2 kocki je logotip lahko na kateremkoli koščku.
+        - 3l1b) na Square-1 mora biti logotip na koščku srednje plasti.
+    - 3l2) Logotip je lahko vtisnjen, vgraviran ali natisnjen na prekrivni nalepki.
+- 3m) Dovoljene so vse znamke ugank in delov ugank, dokler so v skladu z vsemi pravili WCA Pravilnika.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
