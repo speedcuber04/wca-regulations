@@ -30,32 +30,32 @@ Razvoj WCA Pravilnika in Smernic je javno dostopen na portalu [GitHub](https://g
 Za vprašanja in povratne informacije se prosim obrnite na [WCA Odbor za pravila (WRC)](mailto:wrc@worldcubeassociation.org).
 
 
-## <contents> [Contents](regulations:contents)
+## <contents> [Vsebina](regulations:contents)
 
-Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
+Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno, lahko prihaja do anomalij pri njihovem zaporedju številčenja.
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> 1. člen: Uradne osebe
 
-- 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-- 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
-- 1e) Each event must have one or more judges.
-    - 1e1) A judge is responsible for executing the procedures of the event.
-        - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-    - 1e2) Every competitor must be available for judging. If required to judge, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with a puzzle), at the discretion of the WCA Delegate. Penalty: disqualification from the competition (see [Regulation 2k](regulations:regulation:2k)).
-- 1f) Each event must have one or more scramblers. Exception: 3x3x3 Fewest Moves.
-    - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts (see [Regulation A2](regulations:regulation:A2)).
-    - 1f2) Every competitor must be available for scrambling. If required to scramble, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with scrambling notation), at the discretion of the WCA Delegate. Penalty: disqualification from the competition (see [Regulation 2k](regulations:regulation:2k)).
-- 1g) Each event must have one or more score takers.
-    - 1g1) A score taker is responsible for compiling results.
-    - 1g2) Changes to the result on a score sheet are only permitted at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may compete as a single group or be divided into multiple groups.
-    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organization team must ensure that scramblers and judges cannot see any scramble sequences for their attempts that they have not attempted yet (see [Regulation 4b2](regulations:regulation:4b2)).
-- 1j) All officials may compete in the competition.
-- 1k) Officials may serve multiple roles (e.g. organization team, WCA Delegate, judge, score taker, scrambler).
+- 1a) Tekmovanje mora imeti WCA delegata in organizacijsko ekipo (sestavljeno iz enega ali več posameznikov) z naslednjimi uradnimi osebami: sodniki, mešalci in zapisnikarji.
+- 1b) Organizacijska ekipa tekmovanja je odgovorna za logistiko pred, med in po tekmovanju.
+- 1c) WCA delegat je odgovoren za zagotavljanje, da tekmovanje poteka v skladu z WCA Pravilnikom ter vsemi veljavnimi WCA politikami in zahtevami. WCA delegat lahko imenuje druge člane organizacijske ekipe za izvajanje določenih odgovornosti v njegovem imenu, vendar je polno odgovoren za izvajanje teh odgovornosti.
+- 1e) Vsaka disciplina mora imeti enega ali več sodnikov.
+    - 1e1) Sodnik je odgovoren za izvajanje postopka discipline.
+        - 1e1a) Sodnik lahko sodi več tekmovalcem hkrati, po presoji WCA delegata, dokler je kot sodnik sposoben zagotoviti, da so ves čas upoštevana vsa pravila WCA Pravilnika.
+    - 1e2) Vsak tekmovalec mora biti na voljo za sojenje. Če je od njega zahtevano sojenje, je tekmovalec lahko opravičen samo zaradi primernega razloga (npr. nepoznavanje uganke), po presoji WCA delegata. Kazen: diskvalifikacija iz tekmovanja (glej [pravilo 2k](regulations:regulation:2k)).
+- 1f) Vsaka disciplina mora imeti enega ali več mešalcev. Izjema: 3x3x3 optimalno.
+    - 1f1) Mešalec uporabi določene mešalne algoritme, da pripravi uganke za poskuse reševanja (glej [pravilo A2](regulations:regulation:A2)).
+    - 1f2) Vsak tekmovalec mora biti na voljo za mešanje. Če je od njega zahtevano mešanje, je tekmovalec lahko opravičen samo zaradi primernega razloga (npr. nepoznavanje mešalne notacije), po presoji WCA delegata. Kazen: diskvalifikacija iz tekmovanja (glej [pravilo 2k](regulations:regulation:2k)).
+- 1g) Vsaka disciplina mora imeti enega ali več zapisnikarjev.
+    - 1g1) Zapisnikar je odgovoren za vnašanje rezultatov.
+    - 1g2) Sprememba rezultata na tekmovalnem listu je dovoljena samo po presoji WCA delegata.
+- 1h) Tekmovalci v istem krogu discipline lahko tekmujejo v eni skupini ali pa so razdeljeni v več skupin.
+    - 1h1) Mešalci in sodniki naj ne bi mešali ali sodili tekmovalcem v isti skupini kroga, v kateri tekmujejo tudi sami, dokler ne končajo vseh svojih poskusov tega kroga. Po presoji WCA delegata lahko mešajo ali sodijo tekmovalcem v svoji skupini, vendar mora organizacijska ekipa zagotoviti, da kot mešalci in sodniki ne morejo videti nobenih mešalnih algoritmov za tiste poskuse, v katerih še niso tekmovali (glej [pravilo 4b2](regulations:regulation:4b2)).
+- 1j) Na tekmovanju lahko tekmujejo vse uradne osebe tekmovanja.
+- 1k) Uradne osebe lahko opravljajo več vlog (npr. organizacijska ekipa, WCA delegat, sodnik, zapisnikar, mešalec).
 
 
 ## <article-2><competitors><competitors> Article 2: Competitors
