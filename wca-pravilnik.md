@@ -175,42 +175,42 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
     - 4g1) Izjema: pri 6x6x6 kocki, 7x7x7 kocki in Megaminxu po presoji WCA delegata ni potrebno popravljati premešanega stanja uganke.
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-5><puzzle-defects><puzzledefects> 5. člen: Okvare ugank
 
-- 5a) Examples of puzzle defects include: popped parts, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
-    - 5b1) If a competitor chooses to repair the puzzle, they must repair only the defective parts. Tools and/or parts of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
-    - 5b2) Any repair to a puzzle must not give the competitor an advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
-    - 5b3) Permitted repairs:
-        - 5b3a) If any parts have fallen out or moved out of place, the competitor may place them back.
-        - 5b3b) If the competitor repairs the puzzle but finds that the puzzle is unsolvable later during the solve, they may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
-        - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
-    - 5b4) During a blindfolded phase (see [Regulation B4](regulations:regulation:b4)), all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-    - 5b5) If some parts of the puzzle are physically detached or not fully placed at the end of the solve, the following regulations apply:
-        - 5b5a) If one or more parts without colored faces are affected, the puzzle is considered solved.
-        - 5b5b) If one part with one colored face is affected, the puzzle is considered solved.
-        - 5b5c) If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).
-        - 5b5d) If one or more parts with more than one colored face are affected, the puzzle is considered unsolved (DNF).
-        - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supersede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
+- 5a) Primeri okvar ugank vključujejo: odpadle dele, na mestu zavrtene dele in ločene vijake, pokrovčke ali nalepke.
+- 5b) Če med poskusom reševanja pride do okvare uganke, se lahko tekmovalec odloči, ali okvaro popravi in poskus nadaljuje, ali poskus prekine.
+    - 5b1) Če se tekmovalec odloči za popravilo okvare, mora popraviti le okvarjene dele. Za popravilo uganke se ne sme uporabljati orodij ali delov drugih ugank. Kazen: diskvalifikacija poskusa (DNF).
+    - 5b2) Kakršnokoli popravilo uganke tekmovalcu ne sme dati prednosti pri reševanju. Kazen: diskvalifikacija poskusa (DNF).
+    - 5b3) Dovoljena popravila:
+        - 5b3a) če katerikoli košček izpade ali se premakne iz svojega položaja, ga lahko tekmovalec postavi nazaj.
+        - 5b3b) če tekmovalec popravi uganko, vendar kasneje med reševanjem ugotovi, da je uganka nerešljiva, lahko razstavi in ponovno sestavi največ 4 koščke, tako da naredi uganko rešljivo.
+        - 5b3c) če je uganka nerešljiva in jo je mogoče narediti rešljivo z vrtenjem enega samega kotnega dela, lahko tekmovalec popravi kotni del z vrtenjem kota na mestu, ne da bi pri tem razstavil uganko.
+    - 5b4) Med fazo slepega reševanja (glej [pravilo B4](regulations:regulation:b4)) morajo biti vsa popravila izvajana slepo. Kazen: diskvalifikacija poskusa (DNF).
+    - 5b5) Če so kateri deli uganke fizično ločeni ali niso v celoti nameščeni ob koncu poskusa reševanja, veljajo naslednja pravila:
+        - 5b5a) če je prizadet eden ali več delov brez obarvanih ploskev, se uganka upošteva za rešeno.
+        - 5b5b) če je prizadet en del z eno barvno stranjo, se uganka upošteva za rešeno.
+        - 5b5c) če sta prizadeta dva ali več delov z eno barvno stranjo, se uganka upošteva za nerešeno (DNF).
+        - 5b5d) če je prizadet eden ali več delov z več kot eno barvno stranjo, se uganka upošteva za nerešeno (DNF).
+        - 5b5e) pravili [5b5c](regulations:regulation:5b5c) in [5b5d](regulations:regulation:5b5d) sta prednostni pred [5b5a](regulations:regulation:5b5a) in [5b5b](regulations:regulation:5b5b).
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-7><environment><environment> 7. člen: Okolica
 
-- 7b) Spectators must remain at least 1.5 meters away from the solving stations when they are in use.
-- 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colors on the puzzles.
-- 7e) The competition area must be smoke-free.
-- 7f) Solving station:
-    - 7f1) Definitions:
-        - 7f1a) Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat. Generation 2, Generation 3 Pro Timer, Generation 4 Pro Timer, and/or Generation 5 Pro Timer must be used for time measurement.
-        - 7f1b) Mat: The mat of the Stackmat.
-        - 7f1c) Timer: The timer of the Stackmat, or a stopwatch (for longer attempts).
-        - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
-    - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-    - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
-    - 7f4) Generation 5 Pro Timer must be used in 2-pad mode.
-- 7h) The competition area should have one or more Competitor Waiting Areas.
-    - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitor Waiting Area until the competitor has finished all attempts for the round.
-    - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait at to be called to a solving station. 
+- 7b) Gledalci morajo biti oddaljeni vsaj 1,5 metra od tekmovalnih postaj, ko se te uporabljajo.
+- 7c) Osvetlitvi v tekmovalnem prostoru je potrebno posvetiti posebno pozornost. Osvetlitev naj bi bila nevtralna, tako da lahko tekmovalci zlahka razlikujejo med barvami na uganki.
+- 7e) Tekmovalni prostor mora biti primeren za nekadilce (kajenje prepovedano).
+- 7f) Tekmovalna postaja:
+    - 7f1) Definicije:
+        - 7f1a) Stackmat: merilnik časa "Speed Stack Stackmat" in njemu kompatibilna podlaga polne velikosti. Za merjenje časa je potrebno uporabiti merilnik Generation 2, Generation 3 Pro Timer, Generation 4 Pro Timer ali Generation 5 Pro Timer.
+        - 7f1b) Podlaga: podlaga merilnika Stackmat.
+        - 7f1c) Merilnik časa: merilnik časa Stackmat ali štoparica (za daljše poskuse).
+        - 7f1d) Površina: ravna površina, na katero je postavljen Stackmat. Podlaga se šteje za del površine. Merilnik časa se ne šteje za del površine.
+    - 7f2) Merilnik časa mora biti pritrjen na podlago in postavljen na površino, tako da je na strani podlage, ki je bližje tekmovalcu.
+    - 7f3) Organizacijska ekipa lahko modificira merilnike časa, da so ti bolj odporni proti pogostim incidentom, tako da je gumbe težje pritisniti po naključju (npr. s pritrditvijo obročkov okoli gumbov) ali da je baterija trdneje pritrjena (npr. z oblazinjenjem baterijskega predelka).
+    - 7f4) Generation 5 Pro Timer mora biti uporabljan v 2-pad načinu.
+- 7h) Tekmovalni prostor naj bi imel vsaj en čakalni prostor za tekmovalce.
+    - 7h1) Organizacijska ekipa lahko zahteva, da mora za tekmovanje poklican tekmovalec, ostati znotraj določenega čakalnega prostora, dokler ne zaključi vseh poskusov v krogu tekmovanja.
+    - 7h2) Definicija: Čakalni prostor za tekmovalce je območje, kjer tekmovalci v skupini čakajo, da jih pokličejo na tekmovalno postajo.
 
 
 ## <article-9><events><events> Article 9: Events
