@@ -149,30 +149,30 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
 - 3m) Dovoljene so vse znamke ugank in delov ugank, dokler so v skladu z vsemi pravili WCA Pravilnika.
 
 
-## <article-4><scrambling><scrambling> Article 4: Scrambling
+## <article-4><scrambling><scrambling> 4. člen: Mešanje
 
-- 4a) A scrambler applies scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
-    - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-    - 4b2) Scramble sequences for a group must be available only to the WCA Delegate before the start of that group, and only available to the WCA Delegate and the scramblers for the group until it is finished. Exception: For 3x3x3 Fewest Moves, competitors receive scramble sequences during the round (see [Article E](regulations:article:E)).
-        - 4b2a) The designated WCA Delegate for the competition must only give access to scramble sequences for future groups to other members of the organization team if they will be temporarily unavailable (e.g. competing themselves), and should give others access to the minimum possible amount of scrambles in this case.
-    - 4b3) Specification for a scramble program: An official scramble sequence must produce a random state from all states that require at least 2 moves to solve (equal probability for each state). The following additions/exceptions apply:
-        - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
-        - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
-        - 4b3c) Skewb: The (random) state must require at least 7 moves to solve.
-        - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
-        - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least 2 moves to solve.
-        - 4b3f) Pyraminx: The (random) state must require at least 6 moves to solve.
-    - 4b4) Each scramble sequence should be applied during a maximum time frame of 2 hours. This time frame starts when the scramble sequence is applied for the first time.
-- 4d) Scrambling orientation:
-    - 4d1) NxNxN Cubes and Megaminx are scrambled starting with the white face (if not possible, then the lightest face) on the top and the darkest adjacent green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d2) Pyraminx is scrambled starting with the yellow face (if not possible, then the lightest face) on the bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d3) Square-1 is scrambled starting with the darker color on front (out of the 2 possible scrambling orientations).
-    - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
-    - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
-- 4f) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
-- 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-    - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
+- 4a) Mešalec izvaja mešalne algoritme na ugankah.
+- 4b) Uganke morajo biti premešane z uporabo naključnih računalniško ustvarjenih mešalnih algoritmov.
+    - 4b1) Ustvarjeni mešalni algoritmi ne smejo biti pregledani pred tekmovanjem in jih WCA delegat ne sme kakorkoli filtrirati ali izbrati.
+    - 4b2) Mešalni algoritmi za določeno skupino morajo biti pred začetkom tekmovanja v tej skupini dostopni samo WCA delegatu, ter samo WCA delegatu in mešalcem skupine, dokler tekmovanje v skupini ni zaključeno. Izjema: Pri 3x3x3 optimalno tekmovalci prejmejo mešalne algoritme med krogom reševanja (glej [Člen E](regulations:article:E)).
+        - 4b2a) Odgovoren WCA delegat tekmovanja lahko ostalim članom organizacijske ekipe omogoči dostop do mešalnih algoritmov prihodnjih skupin samo, če bo začasno nedosegljiv (npr. če sam tekmuje). V tem primeru mora ostalim omogočiti dostop do najmanjše možne količine mešalnih algoritmov.
+    - 4b3) Specifikacija za mešalni program: uradni mešalni algoritem mora izbrati naključno stanje iz vseh možnih stanj, pri katerih sta potrebni vsaj 2 potezi do rešitve (enaka verjetnost za vsako stanje). Veljajo naslednji dodatki in izjeme:
+        - 4b3a) za discipline slepega reševanja mora mešalni algoritem uganko naključno orientirati (enaka verjetnost za vsako orientacijo).
+        - 4b3b) 2x2x2 kocka: za rešitev (naključnega) stanja so potrebne vsaj 4 poteze.
+        - 4b3c) Skewb: za rešitev (naključnega) stanja je potrebnih vsaj 7 potez.
+        - 4b3d) Square-1: za rešitev (naključnega) stanja je potrebnih vsaj 11 potez.
+        - 4b3e) 5x5x5 kocka, 6x6x6 kocka, 7x7x7 kocka in Megaminx: dovolj veliko naključnih potez (namesto naključnega stanja), vsaj 2 potezi do rešitve.
+        - 4b3f) Pyraminx: za rešitev (naključnega) stanja je potrebnih vsaj 6 potez.
+    - 4b4) Vsak mešalni algoritem naj bi se uporabljal v časovnem okviru največ dveh ur. Ta časovni okvir se začne, ko se mešalni algoritem uporabi prvič.
+- 4d) Mešalna orientacija:
+    - 4d1) NxNxN kocke in Megaminx so premešane začenši z belo ploskvijo (če to ni mogoče, potem z najsvetlejšo ploskvijo) na vrhu in najtemnejšo sosednjo zeleno ploskvijo (če to ni mogoče, potem z najtemnejšo sosednjo ploskvijo) na sprednji strani.
+    - 4d2) Pyraminx je premešan začenši z rumeno ploskvijo (če to ni mogoče, potem z najsvetlejšo ploskvijo) na spodnji strani in zeleno ploskvijo (če to ni mogoče, potem z najtemnejšo sosednjo ploskvijo) na sprednji strani.
+    - 4d3) Square-1 je premešan začenši s temnejšo ploskvijo na sprednji strani (od dveh možnih mešalnih orientacij).
+    - 4d4) Clock je premešan s katerokoli stranjo spredaj in 12. uro navzgor.
+    - 4d5) Skewb je premešan začenši z belo ploskvijo (če to ni mogoče, potem z najsvetlejšo ploskvijo) na vrhu in zeleno ploskvijo (če to ni mogoče, potem z najtemnejšo sosednjo ploskvijo) spredaj-levo.
+- 4f) Tekmovalni mešalni algoritmi morajo biti ustvarjeni z uporabo trenutno uradne različice uradnega WCA mešalnega programa (dostopen [na spletni strani WCA](https://www.worldcubeassociation.org/regulations/scrambles/)).
+- 4g) Po mešanju uganke mora mešalec preveriti, ali je uganka pravilno premešana. Če je stanje uganke napačno, ga mora popraviti (npr. tako da reši uganko in znova uporabi mešalni algoritem).
+    - 4g1) Izjema: pri 6x6x6 kocki, 7x7x7 kocki in Megaminxu po presoji WCA delegata ni potrebno popravljati premešanega stanja uganke.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
