@@ -3,31 +3,31 @@
 <version>Različica: 1. junij 2022
 
 
-## Notes
+## Opombe
 
-### Translation
+### Prevod
 
-Please note that translations are not official versions, even though they are provided on the WCA website for convenience.
-If there is a difference between a translation and the (current official) English version, the English version must be used.
+Prevod Pravilnika je informativne narave in nima nobenega uradnega statusa, četudi je objavljen na uradni spletni strani WCA.
+Če obstaja razlika med prevodom in (trenutno uradno) angleško različico, mora biti uporabljana angleška različica.
 
-### WCA Regulations and Guidelines
+### WCA Pravilnik in Smernice
 
-The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+WCA Pravilnik vsebuje celoten sklop pravil, ki veljajo za vsa uradna tekmovanja pod okriljem Svetovne kockarske zveze (World Cube Association).
+WCA Pravilnik dopolnjujejo tudi [WCA Smernice](guidelines:top). Pravilnik je obravnavan kot celosten dokument, ob čemer Smernice vsebujejo dodatna pojasnila in obrazložitve.
 
-### Wording
-Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+### Besedišče
+Uporaba besed "morati" ("must", "must not"), "naj bi" ("should", "should not") in "lahko" ("may") se ujema z [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
-### Information on the Internet
-Website of World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
-Original source of the WCA Regulations: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
-WCA Regulations in [PDF format](link:pdf)
+### Informacije na spletu
+Spletna stran Svetovne kockarske zveze: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/).
+Originalni vir WCA Pravilnika: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/).
+WCA Pravilnik v [PDF formatu](link:pdf).
 
-### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/thewca/wca-regulations) and the discussion is public [on the WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
+### Viri
+Razvoj WCA Pravilnika in Smernic je javno dostopen na portalu [GitHub](https://github.com/thewca/wca-regulations), javna je tudi razprava na [WCA Forumu](https://forum.worldcubeassociation.org/c/regulations).
 
-### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
+### Kontakt
+Za vprašanja in povratne informacije se prosim obrnite na [WCA Odbor za pravila (WRC)](mailto:wrc@worldcubeassociation.org).
 
 
 ## <contents> [Contents](regulations:contents)
