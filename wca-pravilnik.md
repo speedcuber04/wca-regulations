@@ -310,50 +310,50 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
 - 11h) V primeru resne kršitve [pravila 2k3](regulations:regulation:2k3) lahko WCA delegat od tekmovalca zahteva, da zapusti prizorišče tekmovanja, pri čemer upošteva resnost situacije in izbere najboljši možni postopek ukrepanja. Če tekmovalec tega noče storiti, se mora soočiti z morebitnimi disciplinskimi ukrepi WCA.
 
 
-## <article-12><notation><notation> Article 12: Notation
+## <article-12><notation><notation> 12. člen: Notacija
 
-- 12a) Notation for NxNxN Cubes:
-    - 12a1) Face Moves (outer slice):
-        - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-        - 12a1b) Counter-clockwise, 90 degrees: F', B', R', L', U', D'.
-        - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-    - 12a2) Outer Block Moves (outer slice with adjacent inner slices). For each of the moves defined below, n is the total number of slices to move, which must be in the range 1 < n < N (where N is the number of layers in the puzzle). n may also be omitted, for an implicit value of n = 2 slices. Outer Block Moves are:
-        - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
-        - 12a2b) Counter-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
-        - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-    - 12a4) Rotations (entire puzzle):
-        - 12a4a) Clockwise, 90 degrees: x (same direction as R or L'), y (same direction as U or D'), z (same direction as F or B').
-        - 12a4b) Counter-clockwise, 90 degrees: x' (same direction as R' or L), y' (same direction as U' or D), z' (same direction as F' or B).
-        - 12a4c) 180 degrees: x2, y2, z2.
-    - 12a5) Outer Block Turn Metric (OBTM) is defined as:
-        - 12a5a) Each move of the categories Face Moves and Outer Block Moves is counted as 1 move.
-        - 12a5b) Each move of the Rotations category is counted as 0 moves.
-    - 12a6) Execution Turn Metric (ETM) is defined as: Each move of the categories Face Moves, Outer Block Moves, and Rotations is counted as 1 move.
-- 12c) Notation for Square-1:
-    - 12c1) Moves are applied with one of the two smallest surfaces of the equatorial slice on the left side of the front face.
-    - 12c2) (x, y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise. x and y must be integers from -5 to 6, and cannot be both equal to 0.
-    - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
-    - 12c4) Metric for Square-1: (x, y) counts as one move, "/" counts as one move.
-- 12d) Notation for Megaminx (scrambling notation only):
-    - 12d1) Face Moves:
-        - 12d1a) Clockwise, 72 degrees: U (upper face).
-        - 12d1b) Counter-clockwise, 72 degrees: U' (upper face).
-    - 12d2) Other moves are applied while keeping 3 pieces fixed at the top left of the puzzle:
-        - 12d2c) Clockwise 144 degrees move of the whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-        - 12d2d) Counter-clockwise 144 degrees move of the whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
-- 12e) Notation for Pyraminx:
-    - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who is holding the Pyraminx.
-    - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
-    - 12e3) Counter-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
-- 12g) Notation for Clock:
-    - 12g1) The puzzle is oriented with 12 o'clock on top, and either side in front.
-    - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-    - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter-clockwise turns).
-    - 12g4) Turn around the puzzle so that 12 o'clock stays on top, and then move all pins down: y2.
-- 12h) Notation for Skewb:
-    - 12h1) The puzzle is oriented with three faces fully visible, where the upper face is on top.
-    - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
-    - 12h3) Counter-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
+- 12a) Notacija za NxNxN kocke:
+    - 12a1) premiki ploskev (zunanja plast):
+        - 12a1a) v smeri urinega kazalca, 90 stopinj: F (sprednja ploskev), B (zadnja ploskev), R (desna ploskev), L (leva ploskev), U (zgornja ploskev), D (spodnja ploskev).
+        - 12a1b) v nasprotni smeri urinega kazalca, 90 stopinj: F', B', R', L', U', D'.
+        - 12a1c) 180 stopinj: F2, B2, R2, L2, U2, D2.
+    - 12a2) premiki zunanjega bloka (zunanja plast s priležnimi notranjimi plastmi). Za vsako od spodaj definiranih potez pomeni n skupno število plasti premikanja, v območju 1 < n < N (kjer je N število plasti uganke). Za implicitno vrednost plasti n = 2, se lahko n tudi izpusti. Premiki zunanjega bloka so:
+        - 12a2a) v smeri urinega kazalca, 90 stopinj: nFw, nBw, nRw, nLw, nUw, nDw.
+        - 12a2b) v nasprotni smeri urinega kazalca, 90 stopinj: nFw', nBw', nRw', nLw', nUw', nDw'.
+        - 12a2c) 180 stopinj: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
+    - 12a4) obračanje (celotna uganka):
+        - 12a4a) v smeri urinega kazalca, 90 stopinj: x (ista smer kot R ali L'), y (ista smer kot U ali D'), z (ista smer kot F ali B').
+        - 12a4b) v nasprotni smeri urinega kazalca, 90 stopinj: x' (ista smer kot R' ali L), y' (ista smer kot U' ali D), z' (ista smer kot F' ali B).
+        - 12a4c) 180 stopinj: x2, y2, z2.
+    - 12a5) metrika obrata zunanjega bloka (OBTM) je definirana kot:
+        - 12a5a) vsaka poteza kategorij "premiki ploskev" in "premiki zunanjega bloka" se šteje kot 1 poteza.
+        - 12a5b) vsaka poteza kategorije "obračanje" se šteje kot 0 potez.
+    - 12a6) metrika izvedbe obrata (ETM) je definirana kot: vsaka poteza kategorij "premiki ploskev", "premiki zunanjega bloka" in "obračanje" se šteje kot 1 poteza.
+- 12c) Notacija za Square-1:
+    - 12c1) premiki se izvajajo z eno od dveh najmanjših površin srednje plasti postavljeno na levi strani sprednje strani.
+    - 12c2) (x, y) pomeni: obrat zgornje plasti x-krat za 30 stopinj v smeri urinega kazalca, obrat spodnje plasti y-krat za 30 stopinj v smeri urinega kazalca. x in y morata biti celi števili od -5 do 6 in ne moreta biti oba enaka 0.
+    - 12c3) "/" pomeni: obrat desne polovice uganke za 180 stopinj.
+    - 12c4) metrika za Square-1: (x, y) se šteje kot ena poteza, "/" se šteje kot ena poteza.
+- 12d) Notacija za Megaminx (samo mešalna notacija):
+    - 12d1) premiki ploskev:
+        - 12d1a) v smeri urinega kazalca, 72 stopinj: U (zgornja ploskev).
+        - 12d1b) v nasprotni smeri urinega kazalca, 72 stopinj: U' (zgornja ploskev).
+    - 12d2) ostale poteze se izvajajo tako, da ostajajo trije koščki na mestu - na zgornji levi strani uganke:
+        - 12d2c) obrat za 144 stopinj v smeri urinega kazalca celotne uganke, razen plasti treh zgornjih levih koščkov: R++ (navpična smer), D++ (vodoravna smer).
+        - 12d2d) obrat za 144 stopinj v nasprotni smeri urinega kazalca celotne uganke, razen plasti treh zgornjih levih koščkov: R-- (navpična smer), D-- (vodoravna smer).
+- 12e) Notacija za Pyraminx:
+    - 12e1) uganka je orientirana tako, da je spodnja ploskev popolnoma vodoravna, sprednja ploskev pa obrnjena proti osebi, ki drži Pyraminx.
+    - 12e2) v smeri urinega kazalca, 120 stopinj: U (zgornji 2 plasti), L (levi 2 plasti), R (desni 2 plasti), B (zadnji 2 plasti), u (zgornje oglišče), l (levo oglišče), r (desno oglišče), b (zadnje oglišče).
+    - 12e3) v nasprotni smeri urinega kazalca, 120 stopinj: U' (zgornji 2 plasti), L' (levi 2 plasti), R' (desni 2 plasti), B' (zadnji 2 plasti), u' (zgornje oglišče), l' (levo oglišče), r' (desno oglišče), b' (zadnje oglišče).
+- 12g) Notacija za Clock:
+    - 12g1) uganka je orientirana tako, da je 12. ura na vrhu in spredaj poljubna stran.
+    - 12g2) premaknjeni gumbi navzgor: UR (zgoraj desno), DR (spodaj desno), DL (spodaj levo), UL (zgoraj levo), U (oba zgoraj), R (oba desno), D (oba spodaj), L (oba levo), ALL (vsi).
+    - 12g3) vrtenje kolesa ob dvignjenem gumbu in nato premik vseh gumbov navzdol: x+ (x obratov v smeri urinega kazalca), x- (x obratov v nasprotni smeri urinega kazalca).
+    - 12g4) obrat uganke na nasprotno stran, tako da 12. ura ostane na vrhu, nato premik vseh gumbov navzdol: y2.
+- 12h) Notacija za Skewb:
+    - 12h1) uganka je orientirana tako, da so v celoti vidne tri ploskve, pri čemer je zgornja ploskev na vrhu.
+    - 12h2) v smeri urinega kazalca, 120 stopinj: R (plast okoli najbolj oddaljenega vidnega spodnjega desnega oglišča), U (plast okoli najbolj oddaljenega vidnega zgornjega oglišča), L (plast okoli najbolj oddaljenega vidnega spodnjega levega oglišča), B (plast okoli najbolj oddaljenega skritega zadnjega oglišča).
+    - 12h3) v nasprotni smeri urinega kazalca, 120 stopinj: R' (plast okoli najbolj oddaljenega vidnega spodnjega desnega oglišča), U' (plast okoli najbolj oddaljenega vidnega zgornjega oglišča), L' (plast okoli najbolj oddaljenega vidnega spodnjega levega oglišča), B' (plast okoli najbolj oddaljenega skritega zadnjega oglišča).
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
