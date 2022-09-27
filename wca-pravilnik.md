@@ -379,64 +379,64 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
         - A2d1) Mešalec ali pooblaščeni sodnik mora preveriti premešano uganko in podpisati (ali označiti z začetnicami) tekmovalni list, da potrdi uporabljen pravi mešalni algoritem in njegovo ujemanje s sliko (glej [pravilo 4g](regulations:regulation:4g)). Izjema: pri 6x6x6 kocki, 7x7x7 kocki in Megaminxu se lahko mešalec podpiše (ali označi z začetnicami) v potrditev, da je uganka dovolj premešana (glej [pravilo 4g1](regulations:regulation:4g1)).
     - A2e) sodnik postavi uganko na podlago v poljubni orientaciji in pri tem poskrbi, da ostane popolnoma pokrita.
         - A2e1) Tekmovalcu ni dovoljeno zahtevati določene orientacije uganke, sodnik pa ne sme vplivati na orientacijo na način, da položi uganko na podlago glede na poznavanje ali pričakovanje njenega stanja.
-- A3) Inspection:
-    - A3a) The competitor may inspect the puzzle at the start of each attempt.
-        - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-    - A3b) The judge prepares the timer by turning it on and resetting if necessary. If a Generation 5 Pro Timer is in use, the judge must ensure it is set to 2-Pad mode. Separately, the judge also prepares a stopwatch for timing inspection.
-        - A3b1) When the judge believes the competitor is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
-        - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
-    - A3c) The competitor may pick up the puzzle during inspection.
-        - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
-        - A3c2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
-        - A3c3) The competitor may reset the timer before the start of the solve.
-        - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
-    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. Penalty for placing it outside the mat: time penalty (+2 seconds).
-        - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
-        - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
-- A4) Starting the solve:
-    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
-        - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
-    - A4d) If a Stackmat timer is in use, the competitor should keep their hands on the timer until they see a green timer light. They start the solve by removing their hands from the timer (thus starting the timer).
-        - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
-        - A4d2) The competitor must start the solve within 17 seconds of the start of the inspection. Penalty: disqualification of the attempt (DNF).
-        - A4d3) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
-    - A4e) Time penalties for starting the solve are cumulative.
-- A5) During the solve:
-    - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate. Penalty: disqualification of the attempt (DNF).
-    - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
-    - A5c) The competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
-- A6) Stopping the solve:
-    - A6a) The competitor releases the puzzle before stopping the solve, and stops the solve by stopping the timer. If a stopwatch is in use, the judge stops the stopwatch as soon as the competitor does this.
-        - A6a1) When using a stopwatch as the only timer, the competitor stops the solve by releasing the puzzle and notifying the judge that they have stopped the solve. The judge stops the stopwatch as soon as the competitor does this.
-        - A6a2) When using a stopwatch as the only timer, the competitor's default notification signal consists of releasing the puzzle(s) from their hands and placing their hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the start of the attempt.
-    - A6b) The competitor is responsible for stopping the Stackmat timer correctly.
-        - A6b1) If the timer stops before the competitor has solved the puzzle and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits the right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
-        - A6b2) If the timer stops before the competitor has solved the puzzle and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, they may receive an extra attempt, at the discretion of the WCA Delegate.
-    - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied after stopping the timer and before releasing the puzzle, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-    - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
-    - A6e) After stopping the timer, the competitor must not touch or apply a move to the puzzle until the judge has inspected the puzzle.
-        - A6e1) Penalty for applying a move to the puzzle after stopping the timer: disqualification of the attempt (DNF).
-        - A6e2) Penalty for touching the puzzle after stopping the timer without applying any moves: time penalty (+2 seconds). Exception: if immediately after stopping the timer, the competitor briefly touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge (see [Regulation 11f](regulations:regulation:11f)).
-    - A6f) The competitor must not reset the timer until both the competitor and the judge have signed the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-        - A6f1) If the competitor resets the timer before the result has been completely recorded, the judge must not write down the result from memory or from video or photographic evidence, and must disqualify the attempt instead (DNF).
-    - A6g) The judge determines whether the puzzle is solved. They must not touch the puzzle before they have determined whether to assign a penalty for misalignment. Exception: For Clock, the judge will usually need to pick up the puzzle to verify both faces.
-    - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
-    - A6i) Time penalties for stopping the solve are cumulative.
-- A7) Recording results:
-    - A7a) The judge tells the competitor the result.
-        - A7a1) If the judge finds that the puzzle is solved, they call "OKAY".
-        - A7a2) If the judge assigns any penalties, they call "PENALTY".
-        - A7a3) If the result is DNF, the judge calls "DNF".
-    - A7b) The judge records the result on a score sheet and signs next to the result to acknowledge that the result is correct, complete, properly formatted, and clearly readable.
-        - A7b1) If penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer (the "original recorded time"), Y represents a sum of time penalties during/after the solve, and F represents the final result (e.g. 2 + 17.65 + 2 = 21.65). If X and/or Y is 0, the 0 terms are omitted (e.g. 17.65 + 2 = 19.65).
-    - A7c) The competitor must check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
-        - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
-        - A7c2) If the competitor signs (or otherwise marks) an attempt before they have begun it, they forfeit the attempt and the result will be considered DNS.
-        - A7c3) If the competitor signs (or otherwise marks) an attempt after starting the attempt but before the judge has finished recording the result, the attempt will be considered unfinished (DNF).
-        - A7c4) The competitor should not sign an attempt before the judge has recorded and signed the attempt. The competitor is ultimately responsible for ensuring that they and the judge have signed an attempt. If an attempt is found to be missing one or both signatures after the judge delivered the score sheet to the score taker (see [Regulation A7f](regulations:regulation:A7f)), it will be considered unfinished (DNF).
-        - A7c5) Missing signatures found before the end of the competition may be added by the judge and/or the competitor, at the discretion of the WCA Delegate.
-    - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
-    - A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a new competitor's inexperience may be replaced with an extra attempt.
+- A3) Predogled:
+    - A3a) tekmovalec lahko ima predogled uganke na začetku vsakega poskusa.
+        - A3a1) Tekmovalec ima na voljo največ 15 sekund, da izvede predogled uganke in začne z reševanjem.
+    - A3b) sodnik pripravi merilnik časa, tako da ga vklopi in po potrebi ponastavi čas. Če je v uporabi Generation 5 Pro Timer, se mora sodnik prepričati, da je nastavljen v 2-pad načinu. Ločeno sodnik pripravi tudi štoparico za merjenje predogleda.
+        - A3b1) Ko sodnik meni, da je tekmovalec pripravljen, ga vpraša "PRIPRAVLJEN?" ("READY?"). Tekmovalec mora biti pripravljen na začetek poskusa v roku ene minute, od trenutka ko je bil vprašan, sicer mu je po presoji sodnika poskus odvzet (DNS).
+        - A3b2) Tekmovalec začne poskus s potrditvijo, da je pripravljen, sodnik pa odkrije uganko in začne meriti čas predogleda.
+    - A3c) tekmovalec lahko med predogledom dvigne uganko.
+        - A3c1) Tekmovalec med pregledom ne sme izvajati potez. Kazen: diskvalifikacija poskusa (DNF).
+        - A3c2) Če deli uganke niso popolnoma poravnani, lahko tekmovalec poravna plasti, dokler odstopanja ostanejo v mejah [pravila 10f](regulations:regulation:10f).
+        - A3c3) Tekmovalec lahko ponastavi merilnik časa pred začetkom reševanja.
+        - A3c4) Če je organizacijska ekipa določila uporabo tankega predmeta v uganki pri Square-1 (glej [pravilo A2b1](regulations:regulation:A2b1)), lahko tekmovalec med predogledom odstrani predmet iz uganke.
+    - A3d) na koncu predogleda tekmovalec položi uganko na podlago v poljubni orientaciji. Kazen za postavitev izven podlage: časovna kazen (+2 sekundi).
+        - A3d2) Ko preteče 8 sekund predogleda, sodnik sporoči "8 SEKUND" (" 8 SECONDS").
+        - A3d3) Ko preteče 12 sekund predogleda, sodnik sporoči "12 SEKUND" (" 12 SECONDS").
+- A4) Začetek reševanja:
+    - A4b) tekmovalec se s prsti dotakne na dotik občutljivih delov merilnika časa. Tekmovalčeve dlani morajo biti obrnjene navzdol in na strani merilnika, ki je bližje tekmovalcu. Kazen: časovna kazen (+2 sekundi).
+        - A4b1) V trenutku ko začenja poskus, tekmovalec ne sme imeti fizičnega stika z uganko. Kazen: časovna kazen (+2 sekundi).
+    - A4d) če je v uporabi merilnik časa Stackmat, naj bi tekmovalec držal roke na merilniku tako dolgo, dokler se na njem ne prižgi zelena lučka. Poskus reševanja začne tako, da umakne roke z merilnika (s čimer sproži merjenje časa).
+        - A4d1) Tekmovalec mora začeti z reševanjem v 15 sekundah po začetku predogleda. Kazen: časovna kazen (+2 sekundi).
+        - A4d2) Tekmovalec mora začeti z reševanjem v 17 sekundah po začetku predogleda. Kazen: diskvalifikacija poskusa (DNF).
+        - A4d3) Če je v uporabi štoparica, sodnik zažene štoparico takoj, ko tekmovalec začne s poskusom.
+    - A4e) časovne kazni pri začetku reševanja se seštevajo.
+- A5) Med reševanjem:
+    - A5a) med predogledom ali reševanjem uganke tekmovalec ne sme z nikomer komunicirati, razen s sodnikom ali WCA delegatom. Kazen: diskvalifikacija poskusa (DNF).
+    - A5b) med predogledom ali reševanjem uganke tekmovalec ne sme imeti pomoči od nikogar ali od kateregakoli predmeta, razen podlage (glej tudi [pravilo 2i](regulations:regulation:2i)). Kazen: diskvalifikacija poskusa (DNF).
+    - A5c) tekmovalec lahko drži uganko ob površini, da si tako pomaga upravljati z uganko (glej [pravilo 7f1d](regulations:regulation:7f1d)).
+- A6) Konec reševanja:
+    - A6a) tekmovalec odloži uganko preden ustavi reševanje, reševanje ustavi z ustavitvijo merilnika časa. Če je v uporabi štoparica, jo sodnik ustavi takoj, ko tekmovalec naredi opisan postopek.
+        - A6a1) Kadar se uporablja štoparica kot edini merilnik časa, tekmovalec ustavi reševanje tako, da odloži uganko in obvesti sodnika, da je končal z reševanjem. Takoj ko tekmovalec to stori, sodnik ustavi štoparico.
+        - A6a2) Kadar se uporablja štoparica kot edini merilnik časa, je privzeti signal tekmovalca za obvestilo sodniku, da odloži uganko in položi roke na površino z dlanmi navzdol. Tekmovalec in sodnik se lahko pred začetkom poskusa dogovorita za drugo ustrezno obvestilo.
+    - A6b) tekmovalec je odgovoren za pravilno ustavitev merilnika časa Stackmat.
+        - A6b1) Če se merilnik časa ustavi preden je tekmovalec rešil uganko, ter prikaže čas strogo manjši od 0,06 sekunde, se poskus nadomesti z dodatnim poskusom. Če WCA delegat ugotovi, da je bil merilnik časa namerno tako ustavljen, tekmovalec izgubi pravico do dodatnega poskusa.
+        - A6b2) Če se merilnik časa ustavi preden je tekmovalec rešil uganko, ter prikaže čas 0,06 sekunde ali več, je poskus diskvalificiran (DNF). Izjema: če lahko tekmovalec dokaže, da merilnik časa ne deluje pravilno, lahko po presoji WCA delegata prejme dodatni poskus.
+    - A6c) tekmovalec mora popolnoma izpustiti uganko, preden ustavi merilnik časa. Kazen: diskvalifikacija poskusa (DNF). Izjema: če po zaustavitvi merilnika in pred izpustitvijo uganke ni bila narejena nobena poteza, se po presoji sodnika lahko namesto tega dodeli časovna kazen (+2 sekundi).
+    - A6d) tekmovalec mora ustaviti merilnik časa z obema rokama, položenima ravno na senzorje z dlanema navzdol. Kazen: časovna kazen (+2 sekundi).
+    - A6e) po ustavitvi merilnika časa se tekmovalec ne sme dotakniti uganke ali narediti poteze na njej, vse dokler sodnik ne pregleda uganke.
+        - A6e1) Kazen za narejeno potezo na uganki po ustavitvi merilnika časa: diskvalifikacija poskusa (DNF).
+        - A6e2) Kazen za dotikanje uganke po ustavitvi merilnika časa brez narejene vsakršne poteze: časovna kazen (+2 sekundi). Izjema: če se tekmovalec v trenutku po ustavitvi merilnika na kratko dotakne uganke, ne da bi to vplivalo na njeno stanje, se lahko po presoji sodnika časovna kazen odpravi (glej [pravilo 11f](regulations:regulation:11f)).
+    - A6f) tekmovalec ne sme ponastaviti merilnika časa, dokler tekmovalec in sodnik ne podpišeta tekmovalnega lista. Kazen: diskvalifikacija poskusa (DNF), po presoji sodnika.
+        - A6f1) Če tekmovalec ponastavi merilnik časa, preden je rezultat v celoti zabeležen, sodnik ne sme zapisati rezultata iz spomina ali iz video ali fotografskega dokaza, temveč mora poskus diskvalificirati (DNF).
+    - A6g) sodnik ugotovi, ali je uganka pravilno rešena. Pri tem se ne sme dotakniti uganke, preden se odloči o morebitni dodelitvi kazni za napačno poravnavo. Izjema: Pri Clocku je sodniku običajno potrebno dvigniti uganko, da preveri obe strani.
+    - A6h) v primeru sporne situacije se na uganki ne smejo narediti poteze ali poravnave, preden se sporna situacija ne reši.
+    - A6i) časovne kazni ob koncu reševanja se seštevajo.
+- A7) Beleženje rezultata:
+    - A7a) sodnik sporoči tekmovalcu dosežen rezultat.
+        - A7a1) Če sodnik ugotovi, da je uganka pravilno rešena, sporoči "V REDU" ("OKAY").
+        - A7a2) Če sodnik dodeli kakršnokoli kazen, sporoči "KAZEN" ("PENALTY").
+        - A7a3) Če je rezultat DNF, sodnik sporoči "DNF".
+    - A7b) sodnik zapiše rezultat na tekmovalni list in se podpiše zraven rezultata v potrditev, da je rezultat točen, celoten, pravilne oblike in jasno berljiv.
+        - A7b1) Če so dodeljene kazni, sodnik zabeleži prvotni izmerjen čas prikazan na merilniku, skupaj z morebitnimi kaznimi. Oblika mora biti "X + T + Y = F", kjer X predstavlja vsoto časovnih kazni pri začetku reševanja, T predstavlja prikazan čas na merilniku ("prvotno izmerjen čas"), Y predstavlja vsoto časovne kazni ob koncu reševanja, F pa predstavlja končni rezultat (npr. 2 + 17,65 + 2 = 21,65). Če sta X ali Y enaka 0, se ta člena izpustita (npr. 17,65 + 2 = 19,65).
+    - A7c) tekmovalec mora preveriti zapisan rezultat in se podpisati (ali označiti z začetnicami) na tekmovalni list v potrditev, da je rezultat točen, celoten, pravilne oblike in jasno berljiv. S tem je poskus končan.
+        - A7c1) Če tekmovalec ali sodnik zavrne potrditev in podpis tekmovalnega lista, mora spor rešiti WCA delegat.
+        - A7c2) Če tekmovalec poskus podpiše (ali kako drugače označi) preden ga je začel, mu je poskus odvzet in rezultat se šteje kot DNS.
+        - A7c3) Če tekmovalec poskus podpiše (ali kako drugače označi) po začetku, vendar preden sodnik konča beleženje rezultata, se poskus šteje za nedokončanega (DNF).
+        - A7c4) Tekmovalec naj ne bi podpisal poskusa, dokler sodnik ne zabeleži rezultata in ga podpiše. Tekmovalec je polno odgovoren, da oba s sodnikom podpišeta poskus. Če se kasneje, ko je sodnik že izročil tekmovalni list zapisnikarju (glej [pravilo A7f](regulations:regulation:A7f)), ugotovi manjkajoč eden ali oba podpisa, se poskus šteje za nedokončanega (DNF).
+        - A7c5) Manjkajoče podpise, ugotovljene pred koncem tekmovanja, lahko doda sodnik in/ali tekmovalec, po presoji WCA delegata.
+    - A7f) ko je tekmovalčev tekmovalni list za krog discipline popolnjen, ga sodnik izroči zapisnikarju.
+    - A7g) po presoji WCA delegata se lahko incident ali kazen, ki jo povzroči neizkušenost novega tekmovalca, nadomesti z dodatnim poskusom.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
