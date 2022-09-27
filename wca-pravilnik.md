@@ -213,69 +213,69 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
     - 7h2) Definicija: Čakalni prostor za tekmovalce je območje, kjer tekmovalci v skupini čakajo, da jih pokličejo na tekmovalno postajo.
 
 
-## <article-9><events><events> Article 9: Events
+## <article-9><events><events> 9. člen: Discipline
 
-- 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
-- 9b) The official events of the WCA are:
-    - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, and Square-1.
-        - 9b1a) Full round format for these events: "Average of 5".
-        - 9b1b) Cutoff format for these events: "Best of 2" cutoff phase for "Average of 5".
-    - 9b2) 6x6x6 Cube and 7x7x7 Cube.
-        - 9b2a) Full round format for these events: "Mean of 3".
-        - 9b2b) Cutoff format for these events: "Best of 1" cutoff phase for "Mean of 3".
-    - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded.
-        - 9b3a) Full round format for these events: "Best of 3".
-        - 9b3b) For these events, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
-    - 9b4) 3x3x3 Fewest Moves.
-        - 9b4a) Full round formats for this event: "Best of X" (where X is 1 or 2) or "Mean of 3".
-        - 9b4b) Cutoff formats for this event: "Best of 1" cutoff phase for "Best of 2" or "Best of X" (where X is 1 or 2) cutoff phase for "Mean of 3".
-    - 9b5) 3x3x3 Multi-Blind.
-        - 9b5a) Full round formats for this event: "Best of X" (where X is 1, 2, or 3).
-        - 9b5b) Cutoff formats for this event: "Best of X" (where X is 1 or 2) cutoff phase for "Best of Y" (where Y is 2 or 3, and Y > X).
-- 9f) The results of a round are measured as follows:
-    - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
-    - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and rounded to the nearest second (e.g. x.49 becomes x, x.50 becomes x+1).
-    - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
-    - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
-    - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round.
-    - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-    - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts determines the competitor's ranking in the round.
-    - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, their average result for the round is DNF.
-    - 9f10) For "Mean of 3" rounds, competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts determines the competitor's ranking in the round.
-    - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, their average result for the round is DNF.
-    - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
-        - 9f12a) For timed results, "better" is defined as the shorter time.
-        - 9f12b) For 3x3x3 Fewest Moves, "better" is defined as the shorter solution length.
-        - 9f12c) For 3x3x3 Multi-Blind, rankings are assessed based on the number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, or if only 1 puzzle is solved, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles are better.
-    - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
-    - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
-    - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-- 9g) A Cutoff Round is a round with a "Best of X" cutoff phase and a cutoff requirement (e.g. "Best of 2" with a cutoff requirement of strictly better than 2 minutes). If the competitor satisfies the cutoff requirement in at least one of their cutoff phase attempts, they are eligible for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
-- 9i) Results of official WCA competitions must be listed on the WCA world rankings.
-    - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
-    - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
-    - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
-- 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA Competition Announcement Team.
-- 9l) Each round must be completed before any following round of the same event can start.
-- 9m) Events must have at most four rounds.
-    - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
-    - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
-    - 9m3) Rounds with 7 or fewer competitors must not have subsequent rounds.
-- 9o) Cutoff Rounds count as one round when counting the number of rounds per event.
-- 9p) If an event has multiple rounds, then:
-    - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-    - 9p2) The competitors who advance to the next round must be determined by ranking (best x competitors) or by result (all competitors with a better result than x) in the preceding round.
-        - 9p2a) For each round, advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-    - 9p3) If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked non-qualifying competitor from the preceding round.
-- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
-- 9t) If any change occurs to the results of a competitor after the competition has ended (e.g. score-taking mistake, retroactive penalty), such that the competitor should not have advanced to the next round (or was not allowed to take part in the round), all results of this competitor for all subsequent rounds must be removed.
-    - 9t1) If this makes a round no longer compliant with [Regulation 9p1](regulations:regulation:9p1), results of other competitors must not be removed.
-    - 9t2) If this makes a round no longer compliant with [Regulation 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3), any subsequent round must not be removed.
-    - 9t3) If any change occurs to the result of a competitor, such that another competitor should not have advanced to the next round, the result of the second competitor must not be removed.
+- 9a) WCA vodi tekmovanja reševanja mehanskih ugank, ki delujejo na principu skupine vrtečih delov, splošno znanih kot "mehanske uganke".
+- 9b) Uradne WCA discipline so:
+    - 9b1) 3x3x3 kocka, 2x2x2 kocka, 4x4x4 kocka, 5x5x5 kocka, 3x3x3 enoročno, Clock, Megaminx, Pyraminx, Skewb, in Square-1.
+        - 9b1a) Format polnega kroga za te discipline: "Average of 5".
+        - 9b1b) Format z rezom za te discipline: "Best of 2" rez pri "Average of 5".
+    - 9b2) 6x6x6 kocka in 7x7x7 kocka.
+        - 9b2a) Format polnega kroga za ti disciplini: "Mean of 3".
+        - 9b2b) Format z rezom za ti disciplini: "Best of 1" rez pri "Mean of 3".
+    - 9b3) 3x3x3 slepo, 4x4x4 slepo, 5x5x5 slepo.
+        - 9b3a) Format polnega kroga za te discipline: "Best of 3".
+        - 9b3b) Za te discipline WCA priznava tudi "Mean of 3" uvrstitve in rekorde, na podlagi rezultatov iz "Best of 3" krogov.
+    - 9b4) 3x3x3 optimalno.
+        - 9b4a) Format polnega kroga za to disciplino: "Best of X" (kjer je X 1 ali 2) ali "Mean of 3".
+        - 9b4b) Format z rezom za to disciplino: "Best of 1" rez pri "Best of 2' ali "Best of X" (kjer je X 1 ali 2) pri "Mean of 3".
+    - 9b5) 3x3x3 slepo več kock.
+        - 9b5a) Format polnega kroga za to disciplino: "Best of X" (kjer je X 1, 2 ali 3).
+        - 9b5b) Format z rezom za to disciplino: "Best of X" (kjer je X 1 ali 2) rez pri "Best of Y" (kjer je Y 2 ali 3, in Y > X).
+- 9f) Rezultati kroga se merijo na naslednji način:
+    - 9f1) Vsi merjeni rezultati nižji od 10 minut, razen pri 3x3x3 slepo več kock, se merijo in skrajšajo na najbližjo stotinko sekunde. Vsa merjena povprečja nižja od 10 minut se merijo in zaokrožijo na najbližjo stotinko sekunde.
+    - 9f2) Vsi merjeni rezultati in povprečja višja od 10 minut, kot tudi vsi časi za rezultate pri 3x3x3 slepo več kock, se merijo in zaokrožijo na najbližjo sekundo (npr. x,49 postane x, x,50 postane x+1).
+    - 9f4) Rezultat poskusa se zabeleži kot DNF (Did Not Finish), kadar je poskus diskvalificiran ali nerešen/nedokončan.
+    - 9f5) Rezultat poskusa se zabeleži kot DNS (Did Not Start), kadar je tekmovalec upravičen do poskusa, vendar ga zavrne.
+    - 9f6) V krogih formata "Best of X" je vsakemu tekmovalcu dodeljenih X poskusov. Najboljši rezultat teh poskusov določa uvrstitev tekmovalca v krogu.
+    - 9f7) V krogih formata "Best of X" je DNF ali DNS najslabši možni rezultat.
+    - 9f8) V krogih formata "Average of 5" je tekmovalcem dodeljenih 5 poskusov. Od teh 5 poskusov se odstranita najboljši in najslabši poskus, aritmetična sredina preostalih 3 poskusov pa določa uvrstitev tekmovalca v krogu.
+    - 9f9) V krogih formata "Average of 5" se en DNF ali DNS šteje kot tekmovalčev najslabši rezultat v krogu. Če ima tekmovalec v krogu več kot en rezultat DNF in/ali DNS, je njegov rezultat povprečja v krogu DNF.
+    - 9f10) V krogih formata "Mean of 3" so tekmovalcem dodeljeni 3 poskusi. Aritmetična sredina teh 3 poskusov določa uvrstitev tekmovalca v krogu.
+    - 9f11) V krogih formata "Mean of 3" vsaj en tekmovalčev rezultat DNF ali DNS pomeni, da je njegov rezultat povprečja v krogu DNF.
+    - 9f12) V krogih formata "Best of 3" se rezultati razvrstijo na podlagi najboljših rezultatov tekmovalcev. Za primerjavo rezultatov se uporabljajo:
+        - 9f12a) pri časovno merjenih rezultatih je kot "boljši" definiran časovno krajši rezultat.
+        - 9f12b) pri 3x3x3 optimalno je kot "boljši" rezultat definirana krajša dolžina rešitve.
+        - 9f12c) pri 3x3x3 slepo več kock se rezultati razvrstijo na podlagi razlike števila rešenih ugank in števila nerešenih ugank, kjer je boljša večja razlika. Če je razlika manjša od 0 ali če je rešena samo 1 uganka, se poskus šteje za nerešen (DNF). Če tekmovalci dosežejo enak rezultat, se njihovi rezultati razvrstijo glede na skupni čas reševanja, pri čemer je boljši manjši doseženi čas. Če tekmovalci dosežejo enak rezultat in enak čas reševanja, se njihovi rezultati razvrstijo glede na število nerešenih ugank, pri čemer je boljše manj nerešenih ugank.
+    - 9f13) V krogih formatov "Mean of 3" in "Average of 5" se rezultati razvrstijo na podlagi vrstnega reda povprečij tekmovalcev, kjer se kot "boljši" upošteva nižji zabeležen rezultat.
+    - 9f14) Če v krogih formatov "Mean of 3" in "Average of 5" tekmovalci dosežejo enak rezultat povprečij, se njihovi rezultati razvrstijo glede na njihove najboljše poskuse v krogu, kjer se kot "boljši" upošteva nižji zabeležen rezultat.
+    - 9f15) Tekmovalci, ki v krogu dosežejo enak rezultat, so uvrščeni na isto mesto v tem krogu.
+- 9g) Format kroga z rezom je krog z "Best of X" fazo reza in zahtevano mejo reza (npr. "Best of 2" z zahtevano mejo 2 minuti). Če tekmovalec vsaj v enem od svojih poskusov faze reza izpolni zahtevano mejo, je upravičen do preostalih poskusov. Poskusi iz faze reza se upoštevajo naprej za polni format kroga.
+- 9i) Rezultati uradnih WCA tekmovanj morajo biti navedeni na WCA svetovni uvrstitvi.
+    - 9i1) WCA priznava naslednje vrste regionalnih rekordov: državni rekordi, celinski rekordi in svetovni rekordi.
+    - 9i2) Vsi rezultati kroga se beležijo na zadnji koledarski datum tekmovanja v tem krogu. Če je regionalni rekord izboljšan večkrat na isti koledarski datum, se samo najboljši rezultat priznava kot nov regionalni rekord.
+    - 9i3) Če se za disciplino spremeni WCA Pravilnik, obveljajo trenutni regionalni rekordi, dokler niso izboljšani v skladu z novim WCA Pravilnikom.
+- 9j) Vsaka disciplina je lahko izvedena največ enkrat na tekmovanje.
+- 9k) Vsi tekmovalci lahko sodelujejo na vseh disciplinah tekmovanja, razen v posebej odobrenih primerih s strani WCA Ekipe za najavo tekmovanj.
+- 9l) Vsak krog discipline mora biti zaključen, preden se lahko začne katerikoli naslednji krog iste discipline.
+- 9m) Discipline lahko imajo največ štiri kroge tekmovanja.
+    - 9m1) Krogi z 99 ali manj tekmovalci lahko imajo največ dva nadaljnja kroga.
+    - 9m2) Krogi z 15 ali manj tekmovalci lahko imajo največ en nadaljnji krog.
+    - 9m3) Krogi z 7 ali manj tekmovalci ne morejo imeti nadaljnjih krogov.
+- 9o) Krog formata z rezom se pri štetju števila krogov na disciplino upošteva kot en krog.
+- 9p) Če ima disciplina več krogov, potem:
+    - 9p1) mora biti med zaporednimi krogi iste discipline izločenih najmanj 25 % tekmovalcev.
+    - 9p2) morajo biti tekmovalci, ki napredujejo v naslednji krog, določeni glede na uvrstitev (najboljših x tekmovalcev) ali dosežen rezultat (vsi tekmovalci z boljšim rezultatom od x) v prejšnjem krogu.
+        - 9p2a) Za vsak krog morajo biti pogoji napredovanja objavljeni pred začetkom kroga in se naj ne bi spremenili po njegovem začetku. Spremembe morajo biti narejene po presoji WCA delegata, ki mora skrbno preučiti poštenost spremembe.
+    - 9p3) če se kvalificirani tekmovalec umakne iz kroga tekmovanja, ga lahko nadomesti najbolje uvrščeni nekvalificirani tekmovalec iz prejšnjega kroga.
+- 9s) Vsak krog vsake discipline mora imeti časovno omejitev (glej [pravilo A1a](regulations:regulation:A1a)).
+- 9t) Če pride do kakršnihkoli sprememb rezultatov tekmovalca po koncu tekmovanja (npr. napaka pri vnašanju rezultatov, naknadna kazen), ki vplivajo do te mere, da tekmovalec naj ne bi napredoval v naslednji krog (ali mu ni bilo dovoljeno tekmovati v krogu), morajo biti odstranjeni vsi rezultati za nadaljnje kroge tega tekmovalca.
+    - 9t1) Če zaradi tega krog ni več v skladu s [pravilom 9p1](regulations:regulation:9p1), se rezultati ostalih tekmovalcev ne smejo odstraniti.
+    - 9t2) Če zaradi tega krog ni več v skladu s [pravili 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) ali [9m3](regulations:regulation:9m3), se noben nadaljnji krog ne sme odstraniti.
+    - 9t3) Če pride do kakršnekoli spremembe rezultata tekmovalca do te mere, da drug tekmovalec naj ne bi napredoval v naslednji krog, se rezultat drugega tekmovalca ne sme odstraniti.
 
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+## <article-10><solved-state><solvedstate> 10. člen: Rešeno stanje
 
 - 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
 - 10c) The puzzle may be in any orientation at the end of the solve.
