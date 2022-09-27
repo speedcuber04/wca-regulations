@@ -277,38 +277,37 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
 
 ## <article-10><solved-state><solvedstate> 10. člen: Rešeno stanje
 
-- 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
-- 10c) The puzzle may be in any orientation at the end of the solve.
-- 10d) All parts of a puzzle must be physically attached to the puzzle and fully placed in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
-- 10e) A puzzle is solved when all colored parts are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For every two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned by more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
-    - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-    - 10e3) If one move is required, the puzzle is considered solved with a time penalty (+2 seconds).
-    - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
-- 10f) Limits of acceptable misalignment for puzzles:
-    - 10f1) NxNxN Cubes: at most 45 degrees.
-    - 10f2) Megaminx: at most 36 degrees.
-    - 10f3) Pyraminx and Skewb: at most 60 degrees.
-    - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle.
-    - 10h1) The solved state of Clock is achieved when all eighteen inner clock faces point to 12 o'clock.
+- 10b) Upoštevano je samo stanje v mirovanju uganke, po ustavitvi merilnika.
+- 10c) Na koncu reševanja je uganka lahko poljubno orientirana.
+- 10d) Vsi deli uganke morajo biti nanjo fizično pritrjeni in v celoti nameščeni na svojih položajih. Izjema: glej [pravilo 5b5](regulations:regulation:5b5).
+- 10e) Uganka je rešena, ko so vsi barvni deli ponovno sestavljeni, ter vsi deli poravnani v spodaj navedenih mejah:
+    - 10e1) za vsaka dva sosednja dela uganke (npr. dve vzporedni, sosednji plasti kocke), ki sta zamaknjena za več kot je meja opisana v [pravilu 10f](regulations:regulation:10f), velja da je za rešitev uganke zahtevana ena dodatna poteza (glej "metrika obrata zunanjega bloka" v [12. členu](regulations:article:12)).
+    - 10e2) če niso potrebne nobene dodatne poteze do rešenega stanja uganke, se upošteva za rešeno brez kazni.
+    - 10e3) če je potrebna ena poteza do rešenega stanja uganke, se ta upošteva za rešeno s časovno kaznijo (+2 sekundi).
+    - 10e4) če je potrebna več kot ena poteza do rešenega stanja uganke, se ta upošteva za nerešeno (DNF).
+- 10f) Meje sprejemljivega odstopanja pri ugankah:
+    - 10f1) NxNxN kocke: največ 45 stopinj.
+    - 10f2) Megaminx: največ 36 stopinj.
+    - 10f3) Pyraminx in Skewb: največ 60 stopinj.
+    - 10f4) Square-1: največ 45 stopinj (U/D) ali 90 stopinj (/).
+- 10h) Za uganke, ki niso navedene v tem členu, velja kot rešeno stanje to, kar je opredeljeno s splošno sprejetim ciljem uganke.
+    - 10h1) Rešeno stanje Clocka je doseženo, ko vseh osemnajst notranjih kazalcev uric kaže na 12. uro.
 
+## <article-11><incidents><incidents> 11. člen: Incidenti
 
-## <article-11><incidents><incidents> Article 11: Incidents
-
-- 11a) Incidents include:
-    - 11a1) Incorrect execution of event procedures, by officials or competitors.
-    - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
-    - 11a3) Equipment malfunction.
-- 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](regulations:regulation:11e3)).
-- 11e) If an incident occurs during an attempt, the WCA Delegate may grant a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-    - 11e1) If a competitor is granted an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using a current official version of an official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
-    - 11e2) If a competitor is granted an extra attempt, the extra attempt should be done right after the attempt that caused it, and must replace the original regularly numbered attempt.
-    - 11e3) If it is unclear whether an incident should result in an extra attempt, the competitor may be granted a provisional extra attempt that will be used only if it is later found that an extra attempt was appropriate (e.g. by a decision of the WRC).
-- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
-- 11g) The WCA Delegate must ensure that copies of the Regulations and Guidelines are available (e.g. printed, digital, or accessible via internet) to officials and competitors for consultation on any incidents.
-- 11h) A WCA Delegate may require competitors in serious violation of [Regulation 2k3](regulations:regulation:2k3) to leave the competition venue, taking into account the seriousness of the situation and the best possible course of action. If the competitor refuses to do so, they may face disciplinary action in the WCA.
+- 11a) Incidenti vključujejo:
+    - 11a1) nepravilno izvajanje postopkov discipline s strani uradnih oseb ali tekmovalcev.
+    - 11a2) motnje ali prekinitve delovanja (npr. izpad električne energije, vklop sirene za nevarnost).
+    - 11a3) okvare opreme.
+- 11b) Če se zgodi incident, WCA delegat določi nepristransko in ustrezno ukrepanje.
+- 11d) Če WCA Pravilnik ni povsem jasen, ali če incidenta ne pokrivajo pravila WCA Pravilnika, potem mora WCA delegat sprejeti odločitev na podlagi poštenega športnega obnašanja (glej tudi [pravilo 11e3](regulations:regulation:11e3)).
+- 11e) Če se incident zgodi med poskusom reševanja, lahko WCA delegat tekmovalcu odobri dodatni poskus, kateri nadomesti poskus, med katerim je prišlo do incidenta. Da je tekmovalec lahko upravičen do dodatnega poskusa, se mora ustno ali pisno pritožiti sodniku in WCA delegatu v času incidenta, še preden konča poskus reševanja. Pritožba tekmovalcu ne zagotavlja dodatnega poskusa.
+    - 11e1) Če je tekmovalcu odobren dodatni poskus, mora biti ta premešan z uporabo drugačnega mešalnega algoritma. Ta mešalni algoritem mora biti ustvarjen z uporabo trenutno uradne različice uradnega WCA mešalnega programa (glej [pravilo 4f](regulations:regulation:4f)).
+    - 11e2) Če je tekmovalcu odobren dodatni poskus, naj bi ta bil opravljen takoj za nadomeščenim poskusom in mora biti oštevilčen s prvotno zaporedno številko poskusa.
+    - 11e3) Če upravičenost do dodatnega poskusa zaradi incidenta ni povsem jasna, se tekmovalcu lahko odobri začasni dodatni poskus, kateri bo uporabljen le v primeru, če se kasneje ugotovi upravičenost do dodatnega poskusa (npr. po odločitvi WRC).
+- 11f) Odločitve o incidentu so po presoji WCA delegata lahko podprte z video ali fotografsko analizo.
+- 11g) WCA delegat mora zagotoviti, da so uradnim osebam in tekmovalcem za posvetovanje o morebitnih incidentih na voljo kopije pravil in smernic (npr. natisnjene, digitalne ali dostopne na spletu).
+- 11h) V primeru resne kršitve [pravila 2k3](regulations:regulation:2k3) lahko WCA delegat od tekmovalca zahteva, da zapusti prizorišče tekmovanja, pri čemer upošteva resnost situacije in izbere najboljši možni postopek ukrepanja. Če tekmovalec tega noče storiti, se mora soočiti z morebitnimi disciplinskimi ukrepi WCA.
 
 
 ## <article-12><notation><notation> Article 12: Notation
