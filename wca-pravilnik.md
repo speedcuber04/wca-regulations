@@ -293,6 +293,7 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
 - 10h) Za uganke, ki niso navedene v tem členu, velja kot rešeno stanje to, kar je opredeljeno s splošno sprejetim ciljem uganke.
     - 10h1) Rešeno stanje Clocka je doseženo, ko vseh osemnajst notranjih kazalcev uric kaže na 12. uro.
 
+
 ## <article-11><incidents><incidents> 11. člen: Incidenti
 
 - 11a) Incidenti vključujejo:
