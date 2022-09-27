@@ -439,9 +439,9 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
     - A7g) po presoji WCA delegata se lahko incident ali kazen, ki jo povzroči neizkušenost novega tekmovalca, nadomesti z dodatnim poskusom.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-B><blindfolded><blindfoldedsolving> Člen B: Slepo reševanje
 
-- B1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
+- B1) Upoštevajo se standardni postopki hitrostnega reševanja, kot je opisano v [Členu A](regulations:article:A) (Hitrostno reševanje). Spodaj so opisana dodatna pravila, ki nadomeščajo ustrezna pravila v [Členu A](regulations:article:A).
     - B1a) There is no inspection period.
     - B1b) The competitor supplies their own blindfold.
 - B2) Starting the attempt:
