@@ -356,29 +356,29 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
     - 12h3) v nasprotni smeri urinega kazalca, 120 stopinj: R' (plast okoli najbolj oddaljenega vidnega spodnjega desnega oglišča), U' (plast okoli najbolj oddaljenega vidnega zgornjega oglišča), L' (plast okoli najbolj oddaljenega vidnega spodnjega levega oglišča), B' (plast okoli najbolj oddaljenega skritega zadnjega oglišča).
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-A><speedsolving><speedsolving> Člen A: Hitrostno reševanje
 
-- A1) Speed Solving attempts must abide by the following procedures.
-    - A1a) The organization team must apply exactly one kind of time limit (time limit per attempt or cumulative time limit) to each round.
-        - A1a1) The default time limit is 10 minutes for each attempt in a round, though the organization team may announce a higher or lower time limit per attempt. In this case, the limit must be the same for all attempts in a round.
-        - A1a2) For events other than 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, the organization team may define a cumulative time limit. The cumulative time limit must either apply to all attempts in one round (e.g. 3 attempts with a cumulative time limit of 20 minutes), or to all attempts in a combination of rounds for different events. In this case, the time limit for a particular attempt is the cumulative time limit minus the total time in other attempts counting towards the time limit so far (see [Regulation A1a5](regulations:regulation:A1a5)). If a round has an applicable cumulative time limit, it must have at most one.
-        - A1a3) The time limits for all rounds must be announced before the competition, and should not be changed after any affected rounds have begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-        - A1a4) The competitor must end each solve before the time limit for the attempt is reached. If a competitor's timer reaches the time limit for an attempt, the judge stops the solve immediately and records the result as DNF. Exception: 3x3x3 Multi-Blind (see [Regulation H1b1](regulations:regulation:H1b1)).
-        - A1a5) The time counting towards the time limit for an attempt is either the result after time penalties are applied (if the result was not DNF) or the time elapsed in the solve (if the result was DNF).
-    - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
-        - A1b1) A Stackmat must be used in addition to the stopwatch. Exception: for events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
-        - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise (e.g. the Stackmat timer malfunctioned, ran for over 10 minutes or was not used at all), the stopwatch time is the original recorded time.
-    - A1c) A competitor participating in an event must be able to fulfill the event's requirements (see [Regulation 2k6](regulations:regulation:2k6)).
-- A2) Scrambling:
-    - A2a) When called for a round, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits in their assigned Competitor Waiting Area until they are called to compete.
-    - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-        - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves from being applied before the start of the attempt. If these objects are used, the organization team should make an announcement before the round starts.
-    - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
-        - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the start of the attempt.
-    - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-        - A2d1) The scrambler or an authorized judge must check the scrambled puzzle, and sign (or initial) the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image (see [Regulation 4g](regulations:regulation:4g)). Exception: for 6x6x6 Cube, 7x7x7 Cube, and Megaminx the scrambler may sign (or initial) to affirm that the puzzle is sufficiently scrambled (see [Regulation 4g1](regulations:regulation:4g1)).
-    - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
-        - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation they place the puzzle on the mat based on what they know or expect the puzzle state to be.
+- A1) Pri poskusih hitrostnega reševanja se morajo upoštevati naslednji postopki.
+    - A1a) Organizacijska ekipa mora za vsak krog uporabiti natančno eno vrsto časovne omejitve (časovna omejitev na poskus ali skupna časovna omejitev).
+        - A1a1) Privzeta časovna omejitev je 10 minut za vsak poskus v krogu, vendar lahko organizacijska ekipa objavi višjo ali nižjo časovno omejitev na poskus. V tem primeru mora biti omejitev enaka za vse poskuse v krogu.
+        - A1a2) Pri vseh disciplinah, razen pri 3x3x3 optimalno in 3x3x3 slepo več kock, lahko organizacijska ekipa določi skupno časovno omejitev. Skupna časovna omejitev mora veljati za vse poskuse v enem krogu (npr. 3 poskusi s skupno časovno omejitvijo 20 minut) ali za vse poskuse v kombinaciji krogov različnih disciplin. V tem primeru je časovna omejitev za posamezni poskus razlika skupne časovne omejitve in skupnega časa v dotedanjih poskusih, ki se štejejo v časovno omejitev (glej [pravilo A1a5](regulations:regulation:A1a5)). Krog lahko ima največ eno skupno časovno omejitev.
+        - A1a3) Časovne omejitve za vse kroge disciplin morajo biti objavljene pred tekmovanjem in se naj ne bi spreminjale po začetku kateregakoli kroga, na katerega vplivajo. Spremembe morajo biti narejene po presoji WCA delegata, ki mora skrbno preučiti poštenost spremembe.
+        - A1a4) Tekmovalec mora zaključiti vsak poskus reševanja, preden je dosežena časovna omejitev poskusa. Če tekmovalčev merilnik časa doseže časovno omejitev poskusa, sodnik takoj ustavi reševanje in zabeleži rezultat kot DNF. Izjema: 3x3x3 slepo več kock (glej [pravilo H1b1](regulations:regulation:H1b1)).
+        - A1a5) Upoštevan čas v časovno omejitev poskusa, je bodisi rezultat po upoštevanju kazni (če rezultat ni bil DNF) ali porabljen čas pri reševanju (če je rezultat bil DNF).
+    - A1b) Če je časovna omejitev za poskus višja od 10 minut, mora biti za merjenje časa uporabljena štoparica.
+        - A1b1) Zraven štoparice mora biti uporabljen tudi Stackmat. Izjema: uporaba Stackmata ni obvezna pri disciplinah brez predogleda, kjer tekmovalec vnaprej pričakuje, da bo presegel čas 10 minut.
+        - A1b2) Če je na voljo čas iz merilnika Stackmat, je to prvotno izmerjen čas. V nasprotnem primeru (npr. merilnik Stackmat ni deloval pravilno, je presegel 10 minut ali sploh ni bil uporabljen) je čas štoparice prvotno izmerjen čas.
+    - A1c) Sodelujoč tekmovalec pri tekmovanju v disciplini mora biti sposoben izpolniti zahteve discipline (glej [pravilo 2k6](regulations:regulation:2k6)).
+- A2) Mešanje:
+    - A2a) ko je tekmovalec poklican za tekmovanje v krogu discipline, odda uganko v rešenem stanju mešalcu. Tekmovalec nato čaka v določenem čakalnem prostoru, dokler ni poklican za reševanje.
+    - A2b) mešalec premeša uganko v skladu s predpisi [4. člena](regulations:article:4).
+        - A2b1) Pri Square-1 lahko organizacijska ekipa v uganko vstavi tanek predmet, da prepreči izvajanje nenamernih potez pred začetkom poskusa. Če se uporabijo takšni predmeti, naj bi organizacijska ekipa to naznanila pred začetkom kroga.
+    - A2c) ko mešalec začne mešati uganko, je tekmovalec ne sme videti dokler se ne začne faza predogleda.
+        - A2c1) Mešalec čez premešano uganko položi pokrivalo, ki onemogoča tekmovalcem ali gledalcem, da bi videli katerikoli del uganke. Pokrivalo ostane čez uganko do začetka poskusa.
+    - A2d) ko sodnik vzame uganko od mešalca, na kratko preveri ali je uganka temeljito premešana. Sodnik morebitne pomisleke poda mešalcu, ki nato izvede natančen pregled uganke.
+        - A2d1) Mešalec ali pooblaščeni sodnik mora preveriti premešano uganko in podpisati (ali označiti z začetnicami) tekmovalni list, da potrdi uporabljen pravi mešalni algoritem in njegovo ujemanje s sliko (glej [pravilo 4g](regulations:regulation:4g)). Izjema: pri 6x6x6 kocki, 7x7x7 kocki in Megaminxu se lahko mešalec podpiše (ali označi z začetnicami) v potrditev, da je uganka dovolj premešana (glej [pravilo 4g1](regulations:regulation:4g1)).
+    - A2e) sodnik postavi uganko na podlago v poljubni orientaciji in pri tem poskrbi, da ostane popolnoma pokrita.
+        - A2e1) Tekmovalcu ni dovoljeno zahtevati določene orientacije uganke, sodnik pa ne sme vplivati na orientacijo na način, da položi uganko na podlago glede na poznavanje ali pričakovanje njenega stanja.
 - A3) Inspection:
     - A3a) The competitor may inspect the puzzle at the start of each attempt.
         - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
