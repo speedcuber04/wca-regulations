@@ -442,43 +442,43 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
 ## <article-B><blindfolded><blindfoldedsolving> Člen B: Slepo reševanje
 
 - B1) Upoštevajo se standardni postopki hitrostnega reševanja, kot je opisano v [Členu A](regulations:article:A) (Hitrostno reševanje). Spodaj so opisana dodatna pravila, ki nadomeščajo ustrezna pravila v [Členu A](regulations:article:A).
-    - B1a) There is no inspection period.
-    - B1b) The competitor supplies their own blindfold.
-- B2) Starting the attempt:
-    - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
-    - B2b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
-    - B2c) The competitor must have no physical contact with the puzzle or the puzzle cover while starting the attempt. Penalty: time penalty (+2 seconds).
-    - B2d) The competitor starts the attempt by removing their hands from the timer, thus starting the timer. (This also starts the solve.)
-        - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-    - B2e) If a stopwatch is in use in addition to a Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.
-    - B2f) If a stopwatch is in use as the only timer, the competitor places their hands on the table (instead of a Stackmat timer). After confirming that they are ready, the competitor starts the solve by lifting the cover. The judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorization phase:
-    - B3a) The competitor may pick up the puzzle during the memorization phase.
-    - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-    - B3c) The competitor must not apply moves to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
-    - B3d) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f) (see [Regulation A3c2](regulations:regulation:A3c2)).
-- B4) Blindfolded phase:
-    - B4a) The competitor dons the blindfold to start the blindfolded phase.
-        - B4a1) Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorization phase.
-    - B4b) The competitor must not apply moves to the puzzle before they have fully donned the blindfold. Penalty: disqualification of the attempt (DNF).
-    - B4c) As soon as the competitor applies the first move to the puzzle, the judge must ensure that there is a sight blocker (e.g. a sheet of paper or cardboard) between the competitor's face and the puzzle.
-        - B4c1) In all cases, the competitor must wear the blindfold such that their view of the puzzle would still clearly be blocked if the sight blocker were not in the way.
-        - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by themselves during the blindfolded phase.
-    - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-- B5) Stopping the solve:
-    - B5a) When using the Stackmat timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.
-    - B5b) When using a stopwatch, the competitor stops the solve by placing the puzzle back onto the surface and notifying the judge that they are stopping the solve. At that moment, the judge stops the timer.
-    - B5c) If the competitor is not touching the puzzle, they may remove the blindfold before they stop the timer. They must not touch the puzzle until the end of the solve. Penalty for touching the puzzle: disqualification of the attempt (DNF).
+    - B1a) Tukaj ni predogleda.
+    - B1b) Tekmovalec si sam priskrbi prevezo za oči.
+- B2) Začetek reševanja:
+    - B2a) sodnik ponastavi merilnik(-e) kot v [pravilu A3b](regulations:regulation:A3b) in nakaže, da je pripravljen na tekmovalčev začetek poskusa (npr. pred tekmovalca postavi pokrivalo uganke, reče "PRIPRAVLJEN" ("READY"), z dvignjenim palcem). Tekmovalec mora poskus začeti v roku ene minute, drugače mu je po presoji sodnika poskus odvzet (DNS).
+    - B2b) tekmovalec se s prsti dotakne na dotik občutljivih delov merilnika časa. Tekmovalčeve dlani morajo biti obrnjene navzdol in na strani merilnika, ki je bližje tekmovalcu. Kazen: časovna kazen (+2 sekundi).
+    - B2c) v trenutku ko začenja poskus, tekmovalec ne sme imeti fizičnega stika z uganko ali pokrivalom uganke. Kazen: časovna kazen (+2 sekundi).
+    - B2d) tekmovalec začne poskus reševanja z umikom rok z merilnika (s čimer sproži merjenje časa).
+        - B2d1) Tekmovalec odstrani pokrivalo z uganke po zagonu merilnika.
+    - B2e) če je zraven merilnika Stackmat v uporabi tudi štoparica, sodnik zažene štoparico takoj, ko tekmovalec začne s poskusom.
+    - B2f) če je štoparica uporabljena kot edini merilnik, tekmovalec položi roke na mizo (namesto na merilnik Stackmat). Po potrditvi pripravljenosti, tekmovalec začne poskus z dvigom pokrivala. Sodnik zažene štoparico takoj, ko tekmovalec začne poskus.
+- B3) Faza pomnjenja:
+    - B3a) tekmovalec lahko dvigne uganko med fazo pomnjenja.
+    - B3b) tekmovalec ne sme delati fizičnih zapiskov. Kazen: diskvalifikacija poskusa (DNF).
+    - B3c) tekmovalec med fazo pomnjenja ne sme izvajati potez. Kazen: diskvalifikacija poskusa (DNF).
+    - B3d) če deli uganke niso popolnoma poravnani, lahko tekmovalec poravna plasti, dokler odstopanja ostanejo v mejah [pravila 10f](regulations:regulation:10f) (glej [pravilo A3c2](regulations:regulation:A3c2)).
+- B4) Faza slepega reševanja:
+    - B4a) tekmovalec si nadene prevezo čez oči, da začne fazo slepega reševanja.
+        - B4a1) Dokler tekmovalec ne izvede prve poteze na uganki, lahko odstrani prevezo z oči in se vrne v fazo pomnjenja.
+    - B4b) tekmovalec ne sme izvajati potez na uganki, preden si popolnoma ne nadene preveze čez oči. Kazen: diskvalifikacija poskusa (DNF).
+    - B4c) takoj ko tekmovalec izvede prvo potezo na uganki, mora sodnik zagotoviti, da je med tekmovalčevim obrazom in uganko ovira, ki preprečuje pogled na uganko (npr. list papirja ali kartona).
+        - B4c1) V vseh primerih mora tekmovalec nositi prevezo za oči, tako da bi bil njegov pogled na uganko še vedno nemogoč, če ovira pogleda ne bi bila na mestu.
+        - B4c3) Če se sodnik in tekmovalec predhodno dogovorita, lahko tekmovalec med fazo slepega reševanja postavi uganko za primeren predmet, ki preprečuje pogled na uganko (npr. notno stojalo, površino mize).
+    - B4d) tekmovalec ne sme videti uganke v nobenem trenutku med fazo slepega reševanja. Kazen: diskvalifikacija poskusa (DNF).
+- B5) Konec reševanja:
+    - B5a) pri uporabi merilnika časa tekmovalec ustavi reševanje tako, da odloži uganko in nato ustavi merilnik.
+    - B5b) pri uporabi štoparice tekmovalec ustavi reševanje tako, da odloži uganko in obvesti sodnika, da je končal z reševanjem. Takoj ko tekmovalec to stori, sodnik ustavi štoparico.
+    - B5c) če se tekmovalec ne dotika uganke, lahko odstrani prevezo z oči, preden ustavi merilnik časa. Uganke se ne sme dotakniti do konca poskusa. Kazen za dotikanje uganke: diskvalifikacija poskusa (DNF).
 
 
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
+## <article-C><one-handed><onehandedsolving> Člen C: Enoročno reševanje
 
-- C1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - C1b) During the solve, the competitor must use only one hand to operate the puzzle. Penalty: disqualification of the attempt (DNF).
-        - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, they must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
-        - C1b3) If other body parts of the competitor come in contact with the puzzle or parts of the puzzle without the competitor's intention and without applying moves, this is not considered operating the puzzle, at the discretion of the judge.
-        - C1b4) During the solve, the competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
-    - C1c) During the solve, once a competitor operates the puzzle with one hand, they must not operate the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
+- C1) Upoštevajo se standardni postopki hitrostnega reševanja, kot je opisano v [Členu A](regulations:article:A) (Hitrostno reševanje). Spodaj so opisana dodatna pravila, ki nadomeščajo ustrezna pravila v [Členu A](regulations:article:A).
+    - C1b) Med reševanjem mora tekmovalec uporabljati samo eno roko za upravljanje uganke. Kazen: diskvalifikacija poskusa (DNF).
+        - C1b2) Če pride do okvare uganke in se tekmovalec odloči, da jo bo popravil, mora to storiti samo z roko za reševanje. Kazen: diskvalifikacija poskusa (DNF).
+        - C1b3) Če drugi deli tekmovalčevega telesa nenamerno in brez izvajanja potez pridejo v stik z uganko ali deli uganke, se to po presoji sodnika ne šteje za upravljanje uganke.
+        - C1b4) Med poskusom tekmovalec lahko drži uganko ob površini, da si tako pomaga upravljati z uganko (glej [pravilo 7f1d](regulations:regulation:7f1d)).
+    - C1c) Ko tekmovalec med poskusom začne uganko upravljati z eno roko, je ne sme več upravljati z drugo roko. Kazen: diskvalifikacija poskusa (DNF).
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
