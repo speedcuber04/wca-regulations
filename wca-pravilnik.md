@@ -518,15 +518,15 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
     - F3a) Tekmovalec ne sme spremeniti položaja nobenega gumba pred začetkom reševanja. Kazen: diskvalifikacija poskusa (DNF).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Člen H: Slepo reševanje več kock
 
-- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-    - H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
-        - H1a1) A competitor is not permitted to change the number of puzzles after submitting their number to the organization team.
-        - H1a2) A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).
-        - H1a3) Before the attempt, the scrambled puzzles must be placed on the table in an arbitrary orientation while ensuring they remain completely covered. The puzzles should be arranged in a shape as square as possible (e.g. 8 puzzles should be arranged in 2 rows with 3 puzzles and 1 row with 2 puzzles).
-    - H1b) If a competitor is attempting fewer than 6 puzzles, they are allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-        - H1b1) The competitor may signal the end of the solve at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
-    - H1d) Time penalties for the puzzles of the attempt are cumulative.
-    - H1e) The competitor must not apply any moves to one or more puzzles during the memorization phase. Penalty: disqualification of the attempt (DNF). Exception: these individual puzzles may be considered unsolved at the end of the attempt instead of disqualifying the entire attempt, at the discretion of the WCA Delegate.
-- H2) The competitor may self supply a flat covering (e.g. a mat or a cloth) for the surface, at the discretion of the WCA Delegate. If the competitor wishes to do so, the request must be made at the same time as submitting the number of puzzles (see [Regulation H1a](regulations:regulation:H1a)).
+- H1) Upoštevajo se standardni postopki slepega reševanja, kot je opisano v [Členu B](regulations:article:B) (Slepo reševanje). Spodaj so opisana dodatna pravila, ki nadomeščajo ustrezna pravila v [Členu B](regulations:article:B).
+    - H1a) Pred poskusom mora tekmovalec organizacijski ekipi sporočiti število ugank (vsaj 2), s katerimi želi poskusiti.
+        - H1a1) Tekmovalcu ni dovoljeno spreminjati števila ugank, potem ko je njihovo število sporočil organizacijski ekipi.
+        - H1a2) Tekmovalec lahko zahteva, da njegovo sporočeno število ugank ostane tajno, dokler vsi tekmovalci ne sporočijo svojih številk. Ko vsi tekmovalci sporočijo svoje številke, postanejo informacije javne (npr. tekmovalec lahko pred začetkom poskusa zahteva število kateregakoli drugega tekmovalca).
+        - H1a3) Pred poskusom je potrebno premešane uganke postaviti na mizo v naključni orientaciji, ob tem da ostanejo popolnoma zakrite. Uganke naj bi bile razporejene v čim bolj kvadratni obliki (npr. 8 ugank naj bi bilo razporejenih v 2 vrstah s 3 ugankami in v 1 vrsti z 2 ugankama).
+    - H1b) Če tekmovalec poskuša rešiti manj kot 6 ugank, mu je dodeljena časovna omejitev 10 minut pomnožena s številom ugank v poskusu, drugače je časovna omejitev 60 minut.
+        - H1b1) Tekmovalec lahko kadarkoli signalizira konec poskusa. Če in ko je časovna omejitev dosežena, sodnik ustavi poskus in nato točkuje; časovna omejitev za poskus se šteje kot prvotno izmerjen čas.
+    - H1d) Časovne kazni za uganke v poskusu se seštevajo.
+    - H1e) Tekmovalec med fazo pomnjenja ne sme izvajati nobenih potez na eni ali več ugankah. Kazen: diskvalifikacija poskusa (DNF). Izjema: po presoji WCA delegata, se lahko te posamezne uganke upoštevajo za nerešene ob koncu poskusa, namesto diskvalifikacije celotnega poskusa.
+- H2) Tekmovalec lahko priskrbi ravno prevleko (npr. podlago ali blago) za površino, po presoji WCA delegata. Če tekmovalec to želi, mora prošnjo sporočiti hkrati z oddajo števila ugank (glej [pravilo H1a](regulations:regulation:H1a)).
