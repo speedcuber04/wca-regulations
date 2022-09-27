@@ -481,41 +481,41 @@ Opomba: Ker se členi in pravila ob morebitnem brisanju ne številčijo ponovno,
     - C1c) Ko tekmovalec med poskusom začne uganko upravljati z eno roko, je ne sme več upravljati z drugo roko. Kazen: diskvalifikacija poskusa (DNF).
 
 
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
+## <article-E><fewest-moves><fewestmovessolving> Člen E: Optimalno reševanje
 
-- E2) Procedure for 3x3x3 Fewest Moves:
-    - E2a) The judge distributes a scramble sequence and paper to all competitors. The judge then starts the stopwatch and calls "GO".
-        - E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt (see [Regulation E2c1](regulations:regulation:E2c1)). If they write this information on the paper that contains the scramble sequence, they must write only on the side without the scramble sequence before the attempt. Penalty for writing anything other than information to identify the attempt: disqualification of the attempt (DNF).
-    - E2b) All competitors have a total time limit of 60 minutes to find and write a solution.
-        - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-    - E2c) At 60 minutes, each competitor must submit to the judge a single piece of paper with a written solution and information to identify the attempt.
-        - E2c1) Information to identify the attempt is: the competitor's name, WCA ID, or competition registrant ID (at least one, optionally multiple), and optionally the competition name, round, or attempt number. Penalty for a submitted solution without name, WCA ID, or competition registrant ID: disqualification of the attempt (DNF).
-        - E2c2) The solution must be a single unambiguous move sequence with each individual move written out in sequential order. Penalty for an ambiguous solution: disqualification of the attempt (DNF).
-        - E2c3) The competitor should clearly black out/scribble out all moves on the paper that are not part of their intended solution.
-        - E2c4) The competitor's solution must only use moves that are exactly defined as notation for the 3x3x3 Cube in [Regulation 12a](regulations:regulation:12a), and must not use any symbols or combinations of symbols that are not specifically defined there. Penalty: disqualification of the attempt (DNF).
-        - E2c5) The competitor's solution is considered correct if starting with a solved puzzle and applying the scramble sequence followed by the solution results in a solved puzzle. Penalty for an incorrect solution: disqualification of the attempt (DNF).
-    - E2d) The competitor's result is the number of moves in their solution, calculated using Outer Block Turn Metric (see [Regulation 12a5](regulations:regulation:12a5)).
-        - E2d1) The competitor's solution must not exceed 80 moves (including rotations) when calculated using Execution Turn Metric (see [Regulation 12a6](regulations:regulation:12a6)). Penalty: disqualification of the attempt (DNF).
-    - E2e) The competitor's solution must not be directly derived from any part of the scramble sequence. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
-        - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in their solution, irrespective of the scramble sequence. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorized objects: disqualification of the attempt (DNF).
-    - E3a) Paper (supplied by the judge) and pens/pencils or similar (supplied by the judge, or optionally self-supplied).
-    - E3b) 3x3x3 Cubes (at most 3, self-supplied), as described in [Article 3](regulations:article:3).
-    - E3c) Stickers (self-supplied).
-    - E3d) Stopwatch or watch (self-supplied) for keeping track of the elapsed time, if it is approved by the WCA Delegate.
-    - E3e) Other non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate (see [Regulation 2i1](regulations:regulation:2i1)).
-    - E3f) Tools to remove markings (self-supplied), such as correction fluid, correction tape, or erasers.
-- E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
+- E2) Postopek za 3x3x3 optimalno:
+    - E2a) sodnik razdeli mešalne algoritme in papir vsem tekmovalcem. Nato zažene štoparico in sporoči "ZAČNITE" ("GO").
+        - E2a1) Preden se poskus začne, tekmovalec ne sme pisati na noben papir namenjen za poskus reševanja. Izjema: tekmovalec lahko napiše podatke za identifikacijo poskusa (glej [pravilo E2c1](regulations:regulation:E2c1)). Če to informacijo napiše pred začetkom poskusa na papir z mešalnim algoritmom, mora to obvezno napisati na hrbtno stran lista. Kazen za pisanje česarkoli drugega kot podatka za identifikacijo poskusa: diskvalifikacija poskusa (DNF).
+    - E2b) vsak tekmovalec ima na voljo skupno 60 minut, da poišče in napiše rešitev.
+        - E2b1) Sodnik naj bi po 55 minutah sporočil "ŠE 5 MINUT" ("5 MINUTES REMAINING") in po 60 minutah "KONEC" ("STOP").
+    - E2c) po 60 minutah mora vsak tekmovalec sodniku oddati en list papirja z zapisano rešitvijo in podatki za identifikacijo poskusa.
+        - E2c1) Podatki za identifikacijo poskusa so: ime tekmovalca, WCA ID ali registracijski ID tekmovanja (vsaj en podatek, lahko več), ter neobvezni podatki: ime tekmovanja, krog ali zaporedna številka poskusa. Kazen za oddano rešitev brez imena, WCA ID-ja ali registracijskega ID-ja tekmovanja: diskvalifikacija poskusa (DNF).
+        - E2c2) Rešitev mora biti eno samo nedvoumno zaporedje potez, pri čemer je vsaka posamezna poteza zapisana v vrstnem redu. Kazen za dvoumno rešitev: diskvalifikacija poskusa (DNF).
+        - E2c3) Tekmovalec naj bi jasno prečrtal vse poteze na papirju, ki niso del njegove predvidene rešitve.
+        - E2c4) Tekmovalčeva rešitev mora vsebovati samo poteze, ki so natančno definirane kot notacija za 3x3x3 kocko v [pravilu 12a](regulations:regulation:12a), ter ne sme vsebovati nobenih simbolov ali kombinacij simbolov, ki tam niso posebej definirani. Kazen: diskvalifikacija poskusa (DNF).
+        - E2c5) Tekmovalčeva rešitev se upošteva za pravilno, če na začetku rešeno uganko z uporabo mešalnega algoritma in nato zapisane rešitve spremeni ponovno v rešeno uganko. Kazen za nepravilno rešitev: diskvalifikacija poskusa (DNF).
+    - E2d) tekmovalčev rezultat je število potez v njegovi rešitvi, izračunano z metriko obrata zunanjega bloka (glej [pravilo 12a5](regulations:regulation:12a5)).
+        - E2d1) Tekmovalčeva rešitev ne sme preseči 80 potez (vključno s potezami obračanja), ko se izračuna z metriko izvedbe obrata (glej [pravilo 12a6](regulations:regulation:12a6)). Kazen: diskvalifikacija poskusa (DNF).
+    - E2e) tekmovalčeva rešitev ne sme neposredno izhajati iz kateregakoli dela mešalnega algoritma. Kazen: diskvalifikacija poskusa (DNF), po presoji WCA delegata.
+        - E2e1) WCA delegat lahko od tekmovalca zahteva, da pojasni namen vsake poteze v njegovi rešitvi, brez oziranja na mešalni algoritem. Če tekmovalec ne more podati ustrezne razlage, se poskus diskvalificira (DNF).
+- E3) Tekmovalec lahko med poskusom uporablja naslednje predmete. Kazen za uporabo nedovoljenih predmetov: diskvalifikacija poskusa (DNF).
+    - E3a) Papir (priskrbi sodnik) in svinčniki ali podobna pisala (priskrbi sodnik ali priskrbi sam).
+    - E3b) 3x3x3 kocke (največ 3, priskrbi sam), kot je opisano v [3. členu](regulations:article:3).
+    - E3c) Nalepke (priskrbi sam).
+    - E3d) Štoparica ali ura (priskrbi sam) za spremljanje pretečenega časa, če to odobri WCA delegat.
+    - E3e) Drugi neelektronski dodatki, ki ne dajejo nepoštene prednosti, po presoji WCA delegata (glej [pravilo 2i1](regulations:regulation:2i1)).
+    - E3f) Orodja za odstranjevanje oznak (priskrbi sam), kot so korekturna tekočina, korekturni trak ali radirke.
+- E4) WCA delegat se lahko odloči za objavo rešitev (npr. fotografija tekmovalnega lista ali prepis rešitve).
 
 
-## <article-F><clock><clocksolving> Article F: Clock Solving
+## <article-F><clock><clocksolving> Člen F: Reševanje Clocka
 
-- F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The judge places the scrambled puzzle onto the mat in a standing position.
-    - F2a) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
-        - F2a1) The judge must remove the stand from the mat immediately after the competitor removes the puzzle from it.
-- F3) At the end of the inspection period, the competitor places the puzzle in a standing position. Penalty: disqualification of the attempt (DNF).
-    - F3a) The competitor must not change the positions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).
+- F1) Upoštevajo se standardni postopki hitrostnega reševanja, kot je opisano v [Členu A](regulations:article:A) (Hitrostno reševanje). Spodaj so opisana dodatna pravila, ki nadomeščajo ustrezna pravila v [Členu A](regulations:article:A).
+- F2) Sodnik položi premešano uganko na podlago v stoječem položaju.
+    - F2a) Organizacijska ekipa lahko uveljavi uporabo stojala za uganko, da prepreči padec uganke pred začetkom poskusa. Če se uporabijo takšna stojala, naj bi organizacijska ekipa to naznanila pred začetkom kroga.
+        - F2a1) Sodnik mora stojalo odstraniti s podlage takoj, ko tekmovalec z njega vzame uganko.
+- F3) Ob koncu predogleda tekmovalec postavi uganko na podlago v stoječem položaju. Kazen: diskvalifikacija poskusa (DNF).
+    - F3a) Tekmovalec ne sme spremeniti položaja nobenega gumba pred začetkom reševanja. Kazen: diskvalifikacija poskusa (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
