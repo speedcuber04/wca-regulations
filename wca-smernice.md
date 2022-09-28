@@ -61,55 +61,55 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 - 2u1+) [DODATEK] Tekmovalec lahko tekmuje samo po presoji WCA delegata. WCA delegat mora skrbno razmisliti o pravičnosti dovolitve.
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-3><puzzles><puzzles> 3. člen: Uganke
 
-- 3a+) [POJASNILO] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
-- 3a++) [DODATEK] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
-- 3a+++) [POJASNILO] Competitors may borrow puzzles from other competitors privately, to use in competition.
-- 3a1+) [POJASNILO] Competitors may be disqualified if they do not have a puzzle ready to submit soon after they are called (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit a puzzle at the moment).
-- 3d1b+) [POJASNILO] Patterns do not need to be present on every face, but only on faces where a distinct color cannot be found. Pieces must not have any features (e.g. textures, pattern irregularities) that significantly distinguish them from similar pieces.
-- 3h+) [POJASNILO] Puzzles may be refined internally by sanding, lubrication, or modifications which improve stability (e.g. magnets).
-- 3h++) [PRIMER] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles have more/different solved states.
-- 3h2++) [POJASNILO] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
-- 3h2a+) [DODATEK] Examples of transparent parts that do not reveal more information about the state of the puzzle: internal parts of the puzzle mechanism, transparent Clock cases.
-- 3j+) [OPOMNIK] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
-- 3j++) [POJASNILO] On Clock, pins may be distinguishable from any other pin of the same side.
-- 3j1+) [OPOMNIK] On Clock, loose pins (i.e. pins that can toggle or recede using gravity instead of being directly pressed) are not considered reasonable wear.
-- 3j2+) [POJASNILO] On Clock, the nine inner clock faces on one side are considered similar pieces.
-- 3k2+) [DODATEK] The WCA Delegate should not apply a listed exception if they believe the competitor tried to use a non-permitted puzzle on purpose.
-- 3k2b+) [POJASNILO] If a non-permitted puzzle is found during the course of a 3x3x3 Multi-Blind attempt, the puzzle must not be exchanged or removed from the attempt and must be counted as unsolved if the entire attempt is not disqualified.
-- 3k2b++) [PRIMER] Suppose the competitor attempts 10 puzzles and solves 8 successfully. If it is found that two solved puzzles and one unsolved puzzle are not permitted, the competitor is considered to have a result with 6 solved puzzles out of 10 (rather than DNF), at the discretion of the WCA Delegate.
-- 3l+) [DODATEK] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
-- 3l++) [POJASNILO] In the past, puzzles with logos have been permitted for blindfolded events. Such puzzles are no longer permitted.
-- 3l1+) [POJASNILO] On NxNxN puzzles, a center piece is any piece with a single colored part. For example, the 5x5x5 Cube has 9 center pieces on each face.
-
-
-## <article-4><scrambling><scrambling> Article 4: Scrambling
-
-- 4b1+) [OPOMNIK] The WCA Delegate must never re-generate any scramble sequences to replace other ones for the purpose of filtering. For example, it is not permitted to glance at the scramble sequences for a competition and generate the entire set again in order to generate "fairer" scramble sequences.
-- 4b2+) [POJASNILO] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition. In some cases (e.g. world records), the organization team may wish to release specific scramble sequences sooner after the end of a group.
-- 4b2++) [DODATEK] Competition organizers should ensure that scramblers, scramble sequences, and partially/fully scrambled puzzles are visually isolated from competitors (see [Regulation A2c](regulations:regulation:A2c)). For example, the scramblers may be located behind a wall, or a sufficiently high divider (e.g. a cardboard divider placed around the sides of a table where the scramblers are seated) may be used so that competitors are not able to see puzzles as the scramblers apply scramble sequences.
-- 4b4+) [POJASNILO] All attempts that have been started within the time frame follow the standard solving procedure (i.e. they are not stopped when the time frame of the relevant scramble sequence expires).
-- 4d+) [POJASNILO] Some puzzles use standard color schemes, except that white is replaced with black. In this case, black is the darkest color and must not be treated as white.
-- 4d++) [DODATEK] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
-- 4f+) [PRIPOROČILO] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
-- 4f++) [OPOMNIK] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
+- 3a+) [POJASNILO] Tekmovalci lahko uporabljajo uganke katerekoli razumne velikosti, po presoji WCA delegata.
+- 3a++) [DODATEK] Privzeto naj bi tekmovalec uporabil isto uganko za vse zaporedne poskuse v krogu hitrostnega reševanja. Tekmovalec lahko zamenja uganko med različnimi poskusi, po presoji sodnika ali WCA delegata.
+- 3a+++) [POJASNILO] Za uporabo na tekmovanju si tekmovalci lahko zasebno izposodijo uganke od drugih tekmovalcev.
+- 3a1+) [POJASNILO] Tekmovalci so lahko diskvalificirani, če nimajo pripravljene uganke za oddajo v mešanje kmalu po tem, ko so poklicani (npr. če so nameravali uporabiti uganko, katero trenutno uporablja drug tekmovalec in zato takrat ne morejo oddati uganke).
+- 3d1b+) [POJASNILO] Ni nujno, da so vzorci na vseh ploskvah, lahko so samo na tistih, kjer tekmovalec ne more ločiti barv. Kosi ne smejo imeti nobenih lastnosti (tekstur, nepravilnosti vzorca), ki bi jih bistveno razlikovale od podobnih kosov.
+- 3h+) [POJASNILO] Uganke so lahko notranje izboljšane z brušenjem, mazanjem ali modifikacijami, ki izboljšajo stabilnost (npr. magneti).
+- 3h++) [PRIMER] Primeri nedovoljenih modifikacij vključujejo: možne so nove poteze, običajne poteze so onemogočene, vidnih je več koščkov ali plasti, vidne so barve na hrbtni strani uganke, poteze se izvajajo samodejno, uganke imajo več/različna rešena stanja.
+- 3h2++) [POJASNILO] Uganke brez nalepk, ki se bistveno razlikujejo od večine takšnih masovno proizvedenih ugank, so dovoljene samo po presoji WCA delegata.
+- 3h2a+) [DODATEK] Primeri prozornih delov, ki ne razkrivajo več informacij o stanju na uganki: notranji deli mehanizma uganke, prozorna ohišja Clocka.
+- 3j+) [OPOMNIK] V preteklosti so bili gravirani in reliefni deli dovoljeni. To ni več dovoljeno.
+- 3j++) [POJASNILO] Gumbi na Clocku se lahko razlikujejo od ostalih gumbov na isti strani uganke.
+- 3j1+) [OPOMNIK] Zrahljani gumbi na Clocku (tj. gumbi, ki se lahko premikajo ali pritisnejo s pomočjo gravitacije, namesto da bi jih neposredno pritisnili) se ne štejejo za razumno obrabo.
+- 3j2+) [POJASNILO] Na Clocku se za podobne kose šteje devet notranjih uric na eni strani uganke.
+- 3k2+) [DODATEK] WCA delegat naj ne uporabi navedenih izjem v kolikor presodi, da je tekmovalec namenoma poskušal uporabiti neustrezno uganko.
+- 3k2b+) [POJASNILO] Če se med potekom poskusa 3x3x3 slepo več kock ugotovi neustrezna uganka, se uganka ne sme zamenjati ali odstraniti iz poskusa, ampak se mora šteti kot nerešena, v kolikor ni diskvalificiran celoten poskus.
+- 3k2b++) [PRIMER] Predpostavimo, da tekmovalec poskuša rešiti 10 ugank in jih uspešno reši 8. Če se ugotovi, da dve rešeni uganki in ena nerešena uganka niso ustrezni, se po presoji WCA delegata upošteva, da ima tekmovalec rezultat s 6 rešenimi ugankami od 10 (namesto DNF).
+- 3l+) [DODATEK] Logotipi lahko imajo kakršenkoli primeren dizajn, ki ne daje prednosti pri opazovanju (npr. šifrirane informacije, ki bi se lahko uporabile za goljufanje), barvni del pa pusti jasno prepoznaven. Nekonvencionalni logotipi so dovoljeni samo po presoji WCA delegata.
+- 3l++) [POJASNILO] V preteklosti so bile uganke z logotipi dovoljene za discipline slepega reševanja. Za te discipline takšne uganke niso več dovoljene.
+- 3l1+) [POJASNILO] Na ugankah NxNxN se kot srednji košček šteje katerikoli enobarvni košček. Na primer, 5x5x5 kocka ima 9 srednjih koščkov na vsaki ploskvi.
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-4><scrambling><scrambling> 4. člen: Mešanje
 
-- 5b+) [DODATEK] The competitor is not permitted to cause a puzzle defect intentionally, unless correcting a previous puzzle defect (see [Regulation 5b3b](regulations:regulation:5b3b) and [Regulation 5b3c](regulations:regulation:5b3c)). Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
-- 5b5+) [PRIMER] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
-- 5b5++) [PRIMER] Examples of parts physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
-- 5b5+++) [PRIMER] Example of parts physically attached but not fully placed, resulting in a solved state: a 5x5x5 center piece twisted in its spot.
-- 5b5++++) [PRIMER] Example of parts physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
-- 5c+) [OPOMNIK] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
+- 4b1+) [OPOMNIK] WCA delegat ne sme nikoli z namenom filtriranja ponovno generirati mešalnih algoritmov, da bi tako nadomestil prejšnje. Na primer, ni dovoljeno pogledati mešalnih algoritmov za tekmovanje ter ponovno ustvariti celotnega kompleta, da bi s tem ustvarili "pravičnejše" mešalne algoritme.
+- 4b2+) [POJASNILO] Na splošno naj bi med tekmovanjem vsi uradni mešalni algoritmi ostali tajni in bili objavljeni skupaj po koncu tekmovanja. V nekaterih primerih (npr. svetovni rekordi) morda želi organizacijska ekipa izdati določene mešalne algoritme prej, po koncu skupine.
+- 4b2++) [DODATEK] Organizatorji tekmovanja naj bi zagotovili, da so mešalci, mešalni algoritmi in delno ali v celoti premešane uganke vizualno izolirani od tekmovalcev (glej [pravilo A2c](regulations:regulation:A2c)). Na primer, mešalci so lahko nameščeni za steno ali pa se lahko uporabi dovolj visoka pregrada (npr. kartonska pregrada, nameščena ob robu mize, kjer mešalci sedijo), tako da tekmovalci ne morejo videti ugank, ko mešalci izvajajo mešalne algoritme.
+- 4b4+) [POJASNILO] Vsi poskusi, ki so začeti znotraj časovnega okvira, sledijo standardnemu postopku reševanja (tj. niso ustavljeni, ko se izteče časovni okvir ustreznega mešanega algoritma).
+- 4d+) [POJASNILO] Nekatere uganke imajo standardno barvno shemo, le da je bela ploskev nadomeščena s črno. V tem primeru je črna najtemnejša barva in ne sme biti obravnavana kot bela.
+- 4d++) [DODATEK] Dovoljeno je, da uganka spremeni svojo orientacijo, ko se prenese od mešalcev na tekmovalno postajo, če pri tem nihče ne poskuša vplivati na naključnost orientacije (glej [pravilo A2e1](regulations:regulation:A2e1)).
+- 4f+) [PRIPOROČILO] WCA delegat naj bi vnaprej ustvaril dovolj mešanih algoritmov za celotno tekmovanje, vključno z rezervnimi mešanimi algoritmi za dodatne poskuse.
+- 4f++) [OPOMNIK] V kolikor WCA delegat med tekmovanjem ustvari kakršnekoli dodatne mešalne algoritme, jih mora shraniti.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-5><puzzle-defects><puzzledefects> 5. člen: Okvare ugank
 
-- 7f1a+) [POJASNILO] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
-- 7h2+) [DODATEK] Competitors in a Competitor Waiting Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
+- 5b+) [DODATEK] Tekmovalcu ni dovoljeno namerno povzročiti okvare uganke, razen če popravlja prejšnjo okvaro (glej [pravilo 5b3b](regulations:regulation:5b3b) in [pravilo 5b3c](regulations:regulation:5b3c)). Primeri namernega povzročanja okvar ugank: odstranjevanje pritrjenega pokrovčka centra, vrtenje kotnega dela, odstranjevanje nalepke.
+- 5b5+) [PRIMER] Primeri fizično ločenih delov, ki rezultirajo v rešeno stanje uganke: en pokrovček centra pri 3x3x3, en košček centra pri veliki kocki, notranji košček velike kocke.
+- 5b5++) [PRIMER] Primeri fizično ločenih delov, ki rezultirajo v "DNF": dva pokrovčka centrov pri 3x3x3, dva koščka centra pri veliki kocki, robni košček (rob) pri 3x3x3, robni košček ("wing") pri 4x4x4, kakršnakoli kombinacija dveh koščkov, ki imata oba obarvan del.
+- 5b5+++) [PRIMER] Primer fizično pritrjenih delov, vendar ne v celoti nameščenih, ki rezultirajo v rešeno stanje uganke: zavrten košček centra na svojem mestu pri 5x5x5.
+- 5b5++++) [PRIMER] Primer fizično pritrjenih delov, vendar ne v celoti nameščenih, ki rezultirajo v "DNF": robni košček (rob) pri 3x3x3, ki rahlo izstopi.
+- 5c+) [OPOMNIK] Če se tekmovalcu zgodi okvara uganke, mu to ne zagotavlja pravice do dodatnega poskusa.
+
+
+## <article-7><environment><environment> 7. člen: Okolica
+
+- 7f1a+) [POJASNILO] Podlaga polne velikosti naj bi imela mere vsaj 30 cm (od levega do desnega roba) in 25 cm (od sprednjega do zadnjega roba).
+- 7h2+) [DODATEK] Tekmovalci v čakalnem prostoru, ki čakajo med poskusi, ne bi smeli videti ugank tekmovalcev na odru.
 
 
 ## <article-9><events><events> Article 9: Events
