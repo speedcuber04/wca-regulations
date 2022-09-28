@@ -149,43 +149,42 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 - 12a2+) [POJASNILO] Na primer, tako Rw kot 2Rw sta veljavna zapisa za isto fizično potezo na 3x3x3 kocki. 1Rw ni veljaven zapis za nobeno NxNxN kocko in 3Rw ni veljaven zapis za 2x2x2 kocko ali 3x3x3 kocko (toda 3Rw je veljaven zapis za 4x4x4 kocko in večje NxNxN kocke).
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-A><speedsolving><speedsolving> Člen A: Hitrostno reševanje
 
-- A1a2+) [DODATEK] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a2++) [PRIMER] If a round has a cumulative time limit of 30 minutes and the competitor's results of the first two attempts are 6:00 and DNF (10:00), then the time limit for the third attempt is 30:00 - 6:00 - 10:00 = 14:00. For this particular example, note that only the final result for an attempt counts. Therefore, a third attempt with an original recorded time of 13:59 without penalties meets the time limit because the final result is 13:59 (see [Regulation 9f2](regulations:regulation:9f2)), while a third attempt with a result of 13:59 + 2 = 14:01 does not meet the time limit.
-- A1a2+++) [DODATEK] If the result from an attempt is unavailable (e.g. the timer was reset), the judge should consult the WCA Delegate and make an estimate of the elapsed time for the attempt. This estimate counts towards the time limit, but must not be used as the basis of an official result for the individual attempt.
-- A1a3+) [OPOMNIK] The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a cutoff round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
-- A1a4+) [OPOMNIK] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A2c1+) [OPOMNIK] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A2d1+) [DODATEK] If the scramble signature is found to be missing before an attempt, the puzzle should immediately be returned to a scrambler for verification and a corresponding signature.
-- A2d1++) [DODATEK] An attempt must not be disqualified solely due to a missing scramble signature. If a scramble signature is missing after the beginning of an attempt, the judge must allow the attempt to continue (if it is still in progress) and the WCA Delegate should allow the result to be kept. However, the WCA Delegate may replace the attempt with an extra attempt if they have a reason (other than the missing signature) to suspect that the scramble was incorrect.
-- A2d1+++) [OPOMNIK] Although the WCA Delegate may allow several individual attempts with missing scramble signatures to count, they should ensure that missing scramble signatures do not become common.
-- A3c3+) [POJASNILO] The competitor may reset the timer before/during the inspection phase if the judge accidentally neglected to do so. However, it is the responsibility of the judge to make sure the timer has been reset (see [Regulation A3b](regulations:regulation:A3b)). If the competitor accidentally tries to start the solve with a timer that the judge did not reset (i.e. the competitor performs inspection, places hands on the timer for a reasonable length of time, assumes that the timer will start normally, and starts to operate the puzzle), the attempt should be replaced by an extra attempt, at the discretion of the WCA Delegate.
-- A3c3++) [POJASNILO] The competitor cannot "test" or "restart" the timer during inspection, since inspection ends once the competitor starts the solve (see [Regulation A4d](regulations:regulation:A4d)). If the competitor stops the timer after they have started it for the first time, this is considered stopping the solve (see [Regulation A6](regulations:regulation:A6)), even if they do so within 15 seconds of starting inspection.
-- A3c4+) [POJASNILO] If the use of a thin object inside the puzzle has been enforced, the judge must not remove the object on behalf of the competitor.
-- A3c4++) [POJASNILO] The competitor may remove the object during the solve, if they did not do it during the inspection (e.g. they forgot).
-- A5b+) [POJASNILO] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: 3x3x3 One-Handed (see [Regulation C1b](regulations:regulation:C1b)).
-- A5b++) [POJASNILO] If a part of the competitor's puzzle pops out (see [Regulation 5a](regulations:regulation:5a)), the competitor must not ask for assistance retrieving or locating the part and the judge should attempt to prevent others from assisting. If someone picks up a popped part for the competitor, the judge or competitor may ask them to place it on the solving station and not to assist any further.
-- A6b+) [OBRAZLOŽITEV] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6e+) [POJASNILO] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
-- A7c+) [DODATEK] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the discretion of the score taker.
-- A7g+) [PRIMER] Examples of incidents that could grant a new competitor an extra attempt: not waiting for the green light, improperly starting or stopping the timer, going over inspection time due to misunderstanding how to start a solve, or other procedural time penalties.
-- A7g++) [POJASNILO] Individual penalties cannot be waived for new competitors. A full extra attempt must be granted.
-- A7g+++) [PRIPOROČILO] The WCA Delegate should use stronger discretion when granting more than one extra attempt to the same new competitor. If more than one extra attempt is granted, it should be for a different incident.
-
-
-
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
-
-- B1+) [OPOMNIK] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving.
-- B1b+) [PRIPOROČILO] Blindfolds should be checked by the WCA Delegate before use in the competition.
-- B2d+) [DODATEK] By default, the competitor starts the solve the first time that they start the timer after the judge has indicated that they are ready (see [Regulation B2a](regulations:regulation:B2a)). If they want to check that the timer is in working order, they must (ask and) receive confirmation from the judge each time before starting/resetting the timer during this phase. Penalty for starting and resetting a timer without confirmation from the judge: disqualification of the attempt (DNF).
+- A1a2+) [DODATEK] V primeru skupne časovne omejitve, pri rezultatih DNF sodnik na tekmovalni list v oklepajih zapiše prvotno izmerjen čas, npr. "DNF (1:02,27)".
+- A1a2++) [PRIMER] Če ima krog skupno časovno omejitev 30 minut in sta tekmovalčeva rezultata prvih dveh poskusov 6:00 in DNF (10:00), potem je časovna omejitev za tretji poskus 30:00 - 6:00 - 10:00 = 14:00. V posebnem primeru upoštevajte, da se upošteva samo končni rezultat poskusa. Zato v tem primeru tretji poskus s prvotno izmerjenim časom 13:59 brez kazni izpolnjuje časovno omejitev, saj je končni rezultat 13:59 (glej [pravilo 9f2](regulations:regulation:9f2)), medtem ko tretji poskus z rezultatom 13:59 + 2 = 14:01 ne izpolnjuje časovne omejitve.
+- A1a2+++) [DODATEK] Če rezultat poskusa ni na voljo (npr. ponastavljen merilnik časa), naj bi se sodnik posvetoval z WCA delegatom in ocenil čas, ki je bil porabljen za poskus. Ta ocena se upošteva za časovno omejitev, vendar se ne sme uporabiti kot osnova za uradni rezultat posameznega poskusa.
+- A1a3+) [OPOMNIK] Organizacijska ekipa in WCA delegat se morata zavedati, da časovne omejitve vplivajo na strategije tekmovalcev (npr. hitenje v prvih dveh poskusih v upanju, da bodo dosegli mejo reza v formatu kroga z rezom) in da lahko spreminjanje časovnih omejitev po začetku kroga neupravičeno postavi nekatere tekmovalce v slabši položaj.
+- A1a4+) [OPOMNIK] Če je bilo tekmovalcu pomotoma dovoljeno prekoračiti časovno omejitev, mora biti časovna omejitev uveljavljena naknadno, o čemer naj bi bili obveščeni sodnik, tekmovalec in WCA delegat (glej [pravilo 1g2](regulations:regulation:1g2)). Sodniki se morajo vedno zavedati časovne omejitve trenutnega poskusa (ki je lahko odvisna od prejšnjih poskusov, v primeru skupne časovne omejitve).
+- A2c1+) [OPOMNIK] V preteklosti so se za pokrivanje ugank uporabljali tekmovalni listi, medtem ko so nekatere strani ostale vidne. To ni več dovoljeno.
+- A2d1+) [DODATEK] Če se morebiten manjkajoč podpis mešalca ugotovi pred poskusom, naj bi bila uganka nemudoma vrnjena k mešalcem v preverjanje in ustrezen podpis.
+- A2d1++) [DODATEK] Poskus ne sme biti diskvalificiran samo zaradi manjkajočega podpisa mešalca. Če se manjkajoč podpis mešalca ugotovi po začetku poskusa, mora sodnik dovoliti nadaljevanje poskusa (če je ta še v teku), WCA delegat pa naj bi dovolil priznanje rezultata. Vendar pa WCA delegat lahko nadomesti poskus z dodatnim poskusom, če ima razlog (razen manjkajočega podpisa) za sum, da je bilo mešanje napačno.
+- A2d1+++) [OPOMNIK] Čeprav lahko WCA delegat dovoli upoštevanje več posameznih poskusov z manjkajočimi podpisi mešalcev, mora zagotoviti, da manjkajoči podpisi mešalcev ne postanejo prepogosti.
+- A3c3+) [POJASNILO] Tekmovalec lahko ponastavi merilnik časa pred ali med fazo predogleda, če sodnik tega pomotoma ne stori. Vendar pa je odgovornost sodnika, da poskrbi za ponastavljanje merilnika časa (glej [pravilo A3b](regulations:regulation:A3b)). Če tekmovalec nenamerno poskuša začeti reševanje z neponastavljenim merilnikom (tj. tekmovalec opravi predogled, položi roke na merilnik časa razumno dolgo, da bi se merilnik normalno zagnal, ter začne premikanje uganke), naj bi se poskus nadomestil z dodatnim poskusom, po presoji WCA delegata.
+- A3c3++) [POJASNILO] Tekmovalec ne more "testirati" ali "ponovno zagnati" merilnika časa med predogledom, saj se predogled konča, ko tekmovalec začne z reševanjem (glej [pravilo A4d](regulations:regulation:A4d)). Če tekmovalec ustavi merilnik po tem ko ga je prvič zagnal, se to šteje za konec reševanja (glej [pravilo A6](regulations:regulation:A6)), tudi če to stori v 15 sekundah po začetku predogleda.
+- A3c4+) [POJASNILO] Če je bila določena uporaba tankega predmeta v uganki, sodnik ne sme odstraniti predmeta v imenu tekmovalca.
+- A3c4++) [POJASNILO] Tekmovalec lahko odstrani predmet med reševanjem, če tega ni storil med predogledom (npr. je pozabil).
+- A5b+) [POJASNILO] Med predogledom ali reševanjem uganke se lahko tekmovalec uganke dotakne s katerimkoli delom telesa. Izjema: 3x3x3 enoročno (glej [pravilo C1b](regulations:regulation:C1b)).
+- A5b++) [POJASNILO] Če del tekmovalčeve uganke odpade (glej [pravilo 5a](regulations:regulation:5a)), tekmovalec ne sme prositi drugih za pomoč ali informacije pri iskanju odpadlega dela, sodnik pa bi naj poskusil drugim to preprečiti. Če nekdo tekmovalcu pobere odpadli del, ga lahko sodnik ali tekmovalec prosi, naj ga položi na tekmovalno postajo in naj mu ne pomaga več.
+- A6b+) [OBRAZLOŽITEV] Mejna vrednost 0,06 sekunde je bila izbrana zaradi prilagoditve na možnost okvar merilnika časa Stackmat.
+- A6e+) [POJASNILO] Če uganka pade tekmovalcu v naročje po ustavitvi merilnika časa, se to šteje za dotikanje uganke.
+- A7c+) [DODATEK] Če se izkaže, da je podpisan rezultat s strani tekmovalca nepopoln ali neberljiv, ga je potrebno razlagati na najslabši razumen način (npr. "1:05" se prizna kot 1:05,99, "25.X3" se prizna kot 25,73, če je X nejasnost med 1 ali 7). Glede na to, da merilnik Stackmat prikazuje čas X:0Y.ss kot X:Y.ss, je manjkajoča desetica bolj verjetna kot manjkajoča enica (npr. "1:2,27" se prizna kot 1:02,27). Po presoji zapisnikarja, se lahko od sodnika, ki je podpisal dvoumen rezultat, zahteva pojasnilo zapisanega.
+- A7g+) [PRIMER] Primeri incidentov, ki bi lahko novemu tekmovalcu omogočili dodatni poskus: ni počakal na zeleno lučko, nepravilen zagon ali ustavitev merilnika časa, prekoračitev časa predogleda zaradi nerazumevanja postopka začetka reševanja, druge časovne kazni zaradi postopka.
+- A7g++) [POJASNILO] Posameznih kazni ni mogoče opustiti pri novih tekmovalcih. Odobriti je potrebno celoten dodatni poskus.
+- A7g+++) [PRIPOROČILO] WCA delegat naj bi uporabil strožje kriterije, ko istemu neizkušenemu tekmovalcu odobri več kot en dodatni poskus. Če je odobren več kot eden dodatni poskus, naj bi bil za različne incidente.
 
 
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
+## <article-B><blindfolded><blindfoldedsolving> Člen B: Slepo reševanje
 
-- C1b+) [POJASNILO] The competitor may use both hands during inspection.
-- C1b++) [POJASNILO] The competitor is not required to use the same solving hand for different attempts of the same round.
+- B1+) [OPOMNIK] Tekmovalec mora uporabiti uganko brez tekstur, oznak ali drugih značilnosti, ki bi med sabo razlikovale podobne kose (glej [pravilo 3k](regulations:regulation:3k)). Temu naj bi se pri slepem reševanju namenilo posebno pozornost.
+- B1b+) [PRIPOROČILO] WCA delegat naj bi pred uporabo na tekmovanju preveril preveze za oči.
+- B2d+) [DODATEK] Privzeto tekmovalec začne reševanje, ko prvič zažene merilnik časa, potem ko je sodnik nakazal pripravljenost (glej [pravilo B2a](regulations:regulation:B2a)). Če tekmovalec želi preveriti delovanje merilnika časa, mora za to vprašati in dobiti potrditev sodnika, vsakič pred zagonom in ponastavitvijo merilnika v tej fazi. Kazen za zagon in ponastavitev merilnika brez potrditve sodnika: diskvalifikacija poskusa (DNF).
+
+
+## <article-C><one-handed><onehandedsolving> Člen C: Enoročno reševanje
+
+- C1b+) [POJASNILO] Med predogledom lahko tekmovalec uporablja obe roki.
+- C1b++) [POJASNILO] Tekmovalcu ni potrebno uporabiti iste roke za reševanje različnih poskusov v istem krogu.
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
