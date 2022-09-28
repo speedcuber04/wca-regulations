@@ -1,9 +1,9 @@
-# <wca-title>WCA Guidelines
+# <wca-title>WCA Smernice
 
-<version>Version: June 1, 2022
+<version>Različica: 1. junij 2022
 
 
-## Notes
+## Opombe
 
 ### WCA Regulations
 
