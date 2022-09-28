@@ -5,60 +5,60 @@
 
 ## Opombe
 
-### WCA Regulations
+### WCA Pravilnik
 
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.
+WCA Smernice dopolnjujejo [WCA Pravilnik](regulations:top). Več informacij o WCA najdete v Pravilniku.
 
-### Numbering
+### Številčenje
 
-Guidelines are numbered in correspondence with related regulations. Note that multiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
+Smernice so oštevilčene na podlagi njim ustreznih pravil. Upoštevajte, da se lahko več smernic nanaša na isto pravilo, nekatere smernice pa se lahko nanašajo na pravila, ki ne obstajajo več.
 
-### Labels
+### Oznake
 
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
+Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak. Upoštevajte, da se te obravnavajo kot dopolnilne informacije in ne kot opis pomembnosti smernice.
 
-- <label>[DODATEK] Additional information to supplement the Regulations.
-- <label>[POJASNILO] Information to address any possible questions about the interpretation of the Regulations.
-- <label>[OBRAZLOŽITEV] Information that clarifies the intent of Regulations.
-- <label>[PRIPOROČILO] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[OPOMNIK] Information that may be addressed by other Regulations/Guideline, but whose relevance is worth reiterating.
-- <label>[PRIMER] An example of how to apply a Regulation.
+- <label>[DODATEK] Dodatne informacije v dopolnitev pravil.
+- <label>[POJASNILO] Informacije, ki se nanašajo na morebitna vprašanja o razlagi pravil.
+- <label>[OBRAZLOŽITEV] Informacije, ki pojasnjujejo namen pravil.
+- <label>[PRIPOROČILO] Kar ni strogo obvezno, vendar naj bi bilo upoštevano, če je mogoče.
+- <label>[OPOMNIK] Informacije, ki so lahko obravnavane z drugimi pravili ali smernicami, vendar je njihova ustreznost vredna ponovnega poudarka.
+- <label>[PRIMER] Primer uporabe pravila.
 
 
-## <contents> [Contents](guidelines:contents)
+## <contents> [Vsebina](guidelines:contents)
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> 1. člen: Uradne osebe
 
-- 1c+) [POJASNILO] If there are multiple WCA Delegates designated for the competition, "the WCA Delegate" refers to any of them. "The WCA Delegate" also refers to anyone appointed by a designated WCA Delegate for a relevant responsibility of the WCA Delegate for the competition.
-- 1c++) [POJASNILO] WCA Delegates may attend the competition without being designated to serve in the WCA Delegate role for the competition. "The WCA Delegate" does not refer to them unless they have been appointed with a relevant responsibility by a designated WCA Delegate for the competition (see [Guideline 1c+](guidelines:guideline:1c+)).
-- 1h+) [PRIPOROČILO] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h++) [PRIPOROČILO] All attempts in the final round of an event, as well as all 3x3x3 Fewest Moves attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).
-- 1h1+) [POJASNILO] Scramblers/judges should only scramble for/judge other competitors in the same group if it is important for competition logistics.
-- 1h1++) [POJASNILO] For 3x3x3 Fewest Moves, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
+- 1c+) [POJASNILO] Če je na tekmovanju določenih več WCA delegatov, se "WCA delegat" nanaša na kateregakoli izmed njih. "WCA delegat" se nanaša tudi na vsakogar, ki je na tekmovanju s strani WCA delegata imenovan za izvajanje določenih odgovornosti v njegovem imenu.
+- 1c++) [POJASNILO] WCA delegati se lahko udeležijo tekmovanja, brez da bi bili določeni za vlogo WCA delegata tekmovanja. "WCA delegat" se takrat ne nanaša nanje, razen če jih določeni WCA delegat tekmovanja imenuje za določeno odgovornost (glej [smernico 1c+](guidelines:guideline:1c+)).
+- 1h+) [PRIPOROČILO] Za tekmovalce v isti skupini naj bi bili uporabljeni enaki mešalni algoritmi. Za tekmovalce v različnih skupinah naj bi bili uporabljeni različni mešalni algoritmi.
+- 1h++) [PRIPOROČILO] Vsi poskusi v zadnjem krogu discipline, kot tudi vsi poskusi 3x3x3 optimalno, naj bi imeli za vse tekmovalce enake mešalne algoritme (tj. samo 1 skupino).
+- 1h1+) [POJASNILO] Mešalci in sodniki naj bi mešali ali sodili drugim tekmovalcem v svoji skupini samo, če je to pomembno za logistiko tekmovanja.
+- 1h1++) [POJASNILO] Pri 3x3x3 optimalno sodniki lahko sodijo tekmovalcem v svoji skupini preden končajo s svojim poskusom (tj. med tem ko tekmujejo).
 
 
-## <article-2><competitors><competitors> Article 2: Competitors
+## <article-2><competitors><competitors> 2. člen: Tekmovalci
 
-- 2c+) [DODATEK] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c2+) [POJASNILO] A WCA profile is the collection of data related to a competitor, and includes their personal information (name, nationality, gender, and date of birth) as well as all their results in official WCA competitions.
-- 2d+) [DODATEK] Date of birth and contact information should be especially secured.
-- 2d++) [PRIPOROČILO] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2e+) [POJASNILO] If a competitor holds multiple citizenships, they may choose which country to represent at their first competition.
-- 2e++) [DODATEK] The WCA Delegate should also verify the name and date of birth by means of documents (e.g. a passport) of every new competitor at their first competition.
-- 2e3+) [POJASNILO] Stateless competitors have no national records and rankings, nor continental records and rankings.
-- 2i+) [DODATEK] Although the competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch.
-- 2i++) [DODATEK] The organization team may provide the competitor an unofficial stopwatch for viewing the elapsed time (started together with the main stopwatch), in which case the competitor is not permitted to touch the official stopwatch.
-- 2i+++) [OPOMNIK] Bluetooth puzzles are considered electronic devices.
-- 2i1b+) [POJASNILO] This includes relevant devices which are switched off or disconnected.
-- 2i1c+) [POJASNILO] Electronic hand warmers may be used before or after an attempt only. Non-electronic hand warmers may be used at any time during an attempt.
-- 2i2a+) [DODATEK] A monitor of a camera can be visible to the competitor as long as it does not show the live feed of the camera.
-- 2j2+) [PRIMER] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
-- 2k6+) [POJASNILO] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
-- 2s+) [OPOMNIK] Special accommodations must be noted in the Delegate Report.
-- 2u1+) [DODATEK] The competitor may compete at the discretion of the WCA Delegate. The WCA Delegate must carefully consider the fairness of allowing it.
+- 2c+) [DODATEK] Tekmovalci, ki se registrirajo prvič, naj bi pri registraciji uporabili svoje pravo ime. Lahko se registrirajo z primernim vzdevkom, po presoji WCA delegata.
+- 2c2+) [POJASNILO] WCA profil je zbirka podatkov, povezanih s tekmovalcem. Vključuje njegove osebne podatke (ime, državljanstvo, spol in datum rojstva), ter vse njegove rezultate na uradnih WCA tekmovanjih.
+- 2d+) [DODATEK] Datum rojstva in kontaktni podatki naj bi bili še posebej zavarovani.
+- 2d++) [PRIPOROČILO] Če tretja oseba (npr. novinar) prosi organizacijsko ekipo, da vzpostavi stik z določenim tekmovalcem, naj bi organizacijska ekipa najprej vprašala tekmovalca za soglasje.
+- 2e+) [POJASNILO] Če ima tekmovalec več državljanstev, lahko na svojem prvem tekmovanju izbere državo, ki jo bo zastopal.
+- 2e++) [DODATEK] WCA delegat naj bi z dokumenti (npr. potnim listom) prav tako preveril ime in datum rojstva vsakega novega tekmovalca na njihovem prvem tekmovanju.
+- 2e3+) [POJASNILO] Tekmovalci brez državljanstva nimajo državnih rekordov in državnih uvrstitev, niti celinskih rekordov in celinskih uvrstitev.
+- 2i+) [DODATEK] Čeprav tekmovalec lahko vzame štoparico za ogled trenutnega časa (če nima pokritih oči), ne sme zagnati, ustaviti, začasno ustaviti ali kako drugače posegati v merjenje časa štoparice.
+- 2i++) [DODATEK] Organizacijska ekipa lahko tekmovalcu priskrbi neuradno štoparico za spremljanje pretečenega časa (zagnano skupaj z glavno štoparico), v tem primeru pa tekmovalcu ni dovoljeno dotikanje uradne štoparice.
+- 2i+++) [OPOMNIK] Bluetooth uganke veljajo za elektronske naprave.
+- 2i1b+) [POJASNILO] To vključuje ustrezne naprave, ki so izklopljene ali nepovezane na vir.
+- 2i1c+) [POJASNILO] Elektronski grelniki rok se lahko uporabljajo samo pred poskusom ali po njem. Neelektronski grelniki rok se lahko uporabljajo kadarkoli med poskusom.
+- 2i2a+) [DODATEK] Zaslon kamere je lahko viden tekmovalcu, če ne prikazuje prenosa kamere v živo.
+- 2j2+) [PRIMER] Na primer da je tekmovalec diskvalificiran iz discipline, ker se v finalnem krogu ni pravočasno pojavil, potem ostanejo njegovi rezultati v prejšnjih krogih veljavni.
+- 2k6+) [POJASNILO] WCA delegati naj bi po svoji presoji sprejeli odločitev le, da bi preprečili tekmovalcem resno škoditi tekmovanju (npr. izguba časa ali virov tekmovanja). Tekmovalci naj ne bi bili diskvalificirani zaradi "slabega" rezultata, kadar tekmujejo po svojih najboljših močeh.
+- 2s+) [OPOMNIK] Posebne prilagoditve morajo biti zabeležene v delegatskem poročilu.
+- 2u1+) [DODATEK] Tekmovalec lahko tekmuje samo po presoji WCA delegata. WCA delegat mora skrbno razmisliti o pravičnosti dovolitve.
 
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
