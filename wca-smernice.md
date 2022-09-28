@@ -112,41 +112,41 @@ Zaradi boljše preglednosti je vsaka smernica označena z eno od spodnjih oznak.
 - 7h2+) [DODATEK] Tekmovalci v čakalnem prostoru, ki čakajo med poskusi, ne bi smeli videti ugank tekmovalcev na odru.
 
 
-## <article-9><events><events> Article 9: Events
+## <article-9><events><events> 9. člen: Discipline
 
-- 9b+) [DODATEK] For an event with multiple rounds, every round after the first round (especially the final round) should be "Average of 5" or "Mean of 3" if one of these is a valid format.
-- 9b++) [DODATEK] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9b3b+) [POJASNILO] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (which is based on the best result). The WCA recognizes it outside of the competition format.
-- 9f1+) [PRIMER] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
-- 9f4+) [OBRAZLOŽITEV] The result of an attempt is DNF only if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
-- 9f5+) [POJASNILO] The result of an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for the attempt.
-- 9p2+) [POJASNILO] Result refers to the single or average that determines the ranking of the corresponding round.
-- 9q+) [PRIPOROČILO] Events and rounds should have at least 2 competitors.
-- 9t+) [OBRAZLOŽITEV] Because of [9t1](regulations:regulation:9t1) and [9t2](regulations:regulation:9t2), rounds may look like they do not comply with [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply to these rules would affect innocent competitors, which is why the results must stay the same.
-- 9t++) [DODATEK] If the change of results happens during the competition, this rule must also be applied. In that case, [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) and [9t3](regulations:regulation:9t3) should also be followed, at the discretion of the WCA Delegate.
-- 9t3+) [PRIMER] Suppose competitor A gets a 10.00 average and competitor B gets a 10.05 average in the first round of an event, such that competitor A advances to the final round but not B. If a score-taking mistake is discovered, and competitor B actually got a 9.95 average (and should have proceeded instead of A), competitor A keeps their result for the final round.
-
-
-## <article-10><solved-state><solvedstate> Article 10: Solved State
-
-- 10e1+) [POJASNILO] For Square-1, because of the shape-shifting property of the puzzle, the metric for misalignments defined in [Regulation 10f4](regulations:regulation:10f4) is different from the metric for the notation, used by the scramble program and defined in [Regulation 12c4](regulations:regulation:12c4).
-- 10f+) [OBRAZLOŽITEV] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
-- 10f4+) [POJASNILO] When counting the moves in case of a misalignment at the end of a solve, x and y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.
-- 10h1+) [DODATEK] The solved state of Clock is not affected by loose or popped pin caps.
+- 9b+) [DODATEK] Pri disciplinah z več krogi, naj bi bil vsak nadaljnji krog po prvem (še posebej finalni krog) formata "Average of 5" ali "Mean of 3", če je eden izmed teh veljaven format discipline.
+- 9b++) [DODATEK] Discipline, ki niso navedene v [pravilu 9b](regulations:regulation:9b), se lahko izvajajo med tekmovanjem, vendar bodo veljale za neuradne in zato ne bodo vključene v uradne rezultate tekmovanja.
+- 9b3b+) [POJASNILO] Statistika "Mean of 3" ne vpliva na uvrstitev tekmovalca v krogu formata "Best of 3" (ki temelji na najboljšem rezultatu). WCA ga vodi izven tekmovalnega formata.
+- 9f1+) [PRIMER] Če merilnik pri reševanju prikaže 12,678, je pravilno zabeležen čas 12,67 (izpustijo se vse decimalke po stotinki sekunde). Sodnik lahko zapiše celoten prikazan čas na tekmovalni list (in ohrani natančnost pri izračunu kazni), dokler ga zapisnikar pravilno skrajša pri vnašanju rezultatov.
+- 9f4+) [OBRAZLOŽITEV] Rezultat poskusa je DNF samo, če je tekmovalec poskus začel s potrditvijo pripravljenosti (glej [pravilo A3b2](regulations:regulation:A3b2)), vendar je bil poskus diskvalificiran.
+- 9f5+) [POJASNILO] Rezultat poskusa je DNS, če je bil tekmovalec upravičen do poskusa, a ga ni začel (glej [pravilo A3b2](regulations:regulation:A3b2)). Če se tekmovalec ni kvalificiral za poskus (npr. ni dosegel meje reza), za tisti poskus nima rezultata.
+- 9p2+) [POJASNILO] Rezultat se nanaša na najboljši poskus ali povprečje, ki določa razvrstitev v ustreznem krogu.
+- 9q+) [PRIPOROČILO] Discipline in tekmovalni krogi naj bi imeli vsaj 2 tekmovalca.
+- 9t+) [OBRAZLOŽITEV] Zaradi [9t1](regulations:regulation:9t1) in [9t2](regulations:regulation:9t2) lahko krogi izgledajo, kot da niso v skladu z [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) ali [9m3](regulations:regulation:9m3). Vendar pa bi spremembe v skladu s temi pravili vplivale na nedolžne tekmovalce, zato morajo njihovi rezultati ostati enaki.
+- 9t++) [DODATEK] Če pride do spremembe rezultatov med tekmovanjem, je potrebno upoštevati tudi to pravilo. V tem primeru je potrebno upoštevati tudi [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) in [9t3](regulations:regulation:9t3), po presoji WCA delegata.
+- 9t3+) [PRIMER] Predpostavimo, da ima tekmovalec A povprečje 10,00 in tekmovalec B povprečje 10,05 v prvem krogu discipline, tako da tekmovalec A napreduje v finalni krog, B pa ne. Če se kasneje odkrije napaka pri vnašanju rezultatov in ima tekmovalec B dejansko povprečje 9,95 (in bi moral napredovati namesto A), tekmovalec A obdrži svoje rezultate v finalnem krogu.
 
 
-## <article-11><incidents><incidents> Article 11: Incidents
+## <article-10><solved-state><solvedstate> 10. člen: Rešeno stanje
 
-- 11e+) [POJASNILO] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.
-- 11e++) [PRIPOROČILO] The WCA Delegate should record the reason(s) for the extra attempt (e.g. on the back of the score sheet).
-- 11e1+) [OPOMNIK] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scramble program (see [Regulation 4f](regulations:regulation:4f), [Guideline 4f+](guidelines:guideline:4f+)).
-- 11e2+) [DODATEK] If an extra attempt itself leads to an additional extra attempt, the competitor should keep doing extra attempts until there is a valid extra attempt to replace the original regularly numbered attempt.
-- 11e2++) [PRIMER] Suppose a competitor has 5 regularly numbered attempts, and #2 leads to extra attempts. The competitor should do extra attempts until there is a valid extra attempt to replace #2. Suppose later another attempt leads to extra attempts, the competitor should proceed in a similar way as for #2.
+- 10e1+) [POJASNILO] Pri Square-1 se zaradi lastnosti spreminjanja oblike uganke, metrika za neporavnanost opredeljena v [pravilu 10f4](regulations:regulation:10f4), razlikuje od metrike za zapis, katero uporablja mešalni program in je opredeljena v [pravilu 12c4](regulations:regulation:12c4).
+- 10f+) [OBRAZLOŽITEV] Meje odstopanja so izbrane tako, da pomenijo naravno mejo med določenim stanjem uganke (brez kazni) in eno potezo oddaljenim stanjem.
+- 10f4+) [POJASNILO] Pri štetju potez v primeru odstopanj na koncu reševanja, se x in y upoštevata ločeno. Primer: (5, 1) velja za eno neporavnanost, (5, 5) velja za dve neporavnanosti.
+- 10h1+) [DODATEK] Na rešeno stanje Clocka ne vplivajo zrahljani ali počeni pokrovčki na gumbih.
 
 
-## <article-12><notation><notation> Article 12: Notation
+## <article-11><incidents><incidents> 11. člen: Incidenti
 
-- 12a2+) [POJASNILO] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
+- 11e+) [POJASNILO] Ker ni zagotovljena uspešnost podane pritožbe, lahko tekmovalec med pritožbo še naprej pusti teči čas na merilniku in po potrebi nadaljuje poskus.
+- 11e++) [PRIPOROČILO] WCA delegat naj bi zabeležil razlog(-e) za odobren dodatni poskus (npr. na zadnji strani tekmovalnega lista).
+- 11e1+) [OPOMNIK] Dodatni poskus mora biti premešan z uporabo nespremenjenega mešalnega algoritma, ustvarjenega z uradnim mešalnim programom (glej [pravilo 4f](regulations:regulation:4f), [smernica 4f+](guidelines:guideline:4f+)).
+- 11e2+) [DODATEK] Če dodatni poskus sam ponovno zahteva nov dodatni poskus, naj bi tekmovalec nadaljeval z dodatnimi poskusi tako dolgo, dokler veljavni poskus ne nadomesti prvotno oštevilčenega poskusa.
+- 11e2++) [PRIMER] Predpostavimo, da je tekmovalec upravičen do 5 redno oštevilčenih poskusov, pri čemer poskus številka 2 zahteva dodatni poskus. Tekmovalec naj bi izvajal dodatne poskuse, dokler ni veljavnega dodatnega poskusa za zamenjavo št. 2. Če pozneje drug poskus prav tako zahteva dodatne poskuse, naj bi tekmovalec nadaljeval na podoben način kot pri poskusu št. 2.
+
+
+## <article-12><notation><notation> 12. člen: Notacija
+
+- 12a2+) [POJASNILO] Na primer, tako Rw kot 2Rw sta veljavna zapisa za isto fizično potezo na 3x3x3 kocki. 1Rw ni veljaven zapis za nobeno NxNxN kocko in 3Rw ni veljaven zapis za 2x2x2 kocko ali 3x3x3 kocko (toda 3Rw je veljaven zapis za 4x4x4 kocko in večje NxNxN kocke).
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
